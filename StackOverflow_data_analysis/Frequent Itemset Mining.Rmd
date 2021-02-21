@@ -1,0 +1,49 @@
+---
+title: ""
+author: "Group"
+date: "8/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r data, include=FALSE}
+library(visNetwork)
+library(tidyverse)
+graph.nodes <- read_csv("E:/111Visual Analytics & Applications/Session10 Assign5/Ego_network_node.csv")
+graph.edges <- read_csv("E:/111Visual Analytics & Applications/Session10 Assign5/Ego_network_edge.csv")
+
+graph.nodes <- graph.nodes %>%
+  rename(group = relation)
+graph.edges <- graph.edges %>%
+  rename(width = weight)
+graph.nodes <- graph.nodes %>% 
+  mutate(title = label)
+
+
+graph.edges$width <- graph.edges$width*200
+```
+
+
+Legend    | Explaination
+----------| -------------
+NUll      | Only for `Python` since the chart is an ego-network of it 
+DW        | Data Wrangling 
+WS        | Website Related
+ML        | Machine Learning
+PL        | Plotting
+BF        | Basic Function
+```{r cars,  fig.width=9, fig.height=8, echo=FALSE}
+visNetwork(graph.nodes, graph.edges, main = "Python Network Visualization", height = "500px", width = "100%") %>%
+  visIgraphLayout(layout = "layout_with_fr") %>%
+  visLegend(useGroups = TRUE) %>%
+  visOptions(highlightNearest = TRUE, selectedBy = "group", nodesIdSelection = TRUE) %>%
+  visLegend(useGroups = TRUE)
+```
+
+
+
+
+

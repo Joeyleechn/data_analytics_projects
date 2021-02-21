@@ -1,0 +1,353 @@
+sid	sch_name	date_declared
+G6538345N	School of Law	2015-02-15 0:00:00
+G3259194S	School of Law	2016-05-16 0:00:00
+G2833242X	School of Law	2017-01-07 0:00:00
+S4172182L	School of Law	2016-04-15 0:00:00
+G2343328I	School of Law	2016-01-03 0:00:00
+S6144774G	School of Law	2015-04-04 0:00:00
+S2396544Q	School of Law	2018-05-08 0:00:00
+S7795800L	School of Law	2015-05-27 0:00:00
+G3159184K	School of Law	2015-04-20 0:00:00
+S4969489L	School of Law	2017-04-10 0:00:00
+G6426070Y	School of Accountancy	2016-03-25 0:00:00
+S4750609W	School of Accountancy	2016-05-16 0:00:00
+S2922540Q	School of Accountancy	2018-02-10 0:00:00
+G6114178Q	School of Accountancy	2016-03-02 0:00:00
+G9702766L	School of Accountancy	2015-03-23 0:00:00
+S8380807S	School of Accountancy	2016-01-27 0:00:00
+G1286472C	School of Accountancy	2017-05-11 0:00:00
+S5642922S	School of Accountancy	2016-04-06 0:00:00
+G4938111H	School of Accountancy	2016-01-14 0:00:00
+G9835849V	School of Accountancy	2016-05-13 0:00:00
+G3168532J	School of Accountancy	2016-03-24 0:00:00
+G4699673D	School of Accountancy	2015-01-01 0:00:00
+G6592376K	School of Accountancy	2016-03-20 0:00:00
+G3010943F	School of Economics	2015-02-23 0:00:00
+S8289625E	School of Economics	2015-03-17 0:00:00
+G3790687V	School of Economics	2017-01-17 0:00:00
+G8126505R	School of Economics	2017-04-23 0:00:00
+S2715297F	School of Economics	2017-04-20 0:00:00
+S5344542H	School of Economics	2018-03-17 0:00:00
+S7259169X	School of Economics	2016-01-20 0:00:00
+G9871356D	School of Economics	2017-05-12 0:00:00
+S7829305T	School of Economics	2016-01-19 0:00:00
+S3067906R	School of Economics	2016-03-26 0:00:00
+S6390340P	School of Economics	2015-05-08 0:00:00
+S8200026G	School of Economics	2015-02-04 0:00:00
+S1369181L	School of Economics	2016-01-07 0:00:00
+S2384155R	School of Economics	2017-02-18 0:00:00
+G3385943F	School of Economics	2016-01-06 0:00:00
+S8870419F	School of Economics	2016-04-20 0:00:00
+S8294060P	School of Economics	2016-03-21 0:00:00
+G3935262C	School of Economics	2017-02-08 0:00:00
+G7812050O	Lee Kong Chian School of Business	2016-05-23 0:00:00
+G5135710U	Lee Kong Chian School of Business	2018-05-01 0:00:00
+G5759261J	Lee Kong Chian School of Business	2018-03-12 0:00:00
+S9202642T	Lee Kong Chian School of Business	2015-04-10 0:00:00
+S5584247G	Lee Kong Chian School of Business	2018-01-15 0:00:00
+G9243459H	Lee Kong Chian School of Business	2016-01-02 0:00:00
+G7795556W	Lee Kong Chian School of Business	2017-02-07 0:00:00
+S9152606R	Lee Kong Chian School of Business	2015-01-26 0:00:00
+S8465365K	Lee Kong Chian School of Business	2018-04-13 0:00:00
+S9243743T	Lee Kong Chian School of Business	2015-05-16 0:00:00
+S1912868B	Lee Kong Chian School of Business	2016-01-05 0:00:00
+G3388578Z	Lee Kong Chian School of Business	2016-02-09 0:00:00
+S9623081G	Lee Kong Chian School of Business	2016-04-07 0:00:00
+G2429820E	Lee Kong Chian School of Business	2015-01-06 0:00:00
+S7726164T	Lee Kong Chian School of Business	2018-03-20 0:00:00
+G5276174Z	Lee Kong Chian School of Business	2018-04-01 0:00:00
+S4550100T	Lee Kong Chian School of Business	2017-01-20 0:00:00
+G8339408W	Lee Kong Chian School of Business	2017-01-24 0:00:00
+S3561314T	Lee Kong Chian School of Business	2015-03-22 0:00:00
+G2267726F	Lee Kong Chian School of Business	2016-05-25 0:00:00
+G3785313W	Lee Kong Chian School of Business	2017-02-27 0:00:00
+S8201326R	Lee Kong Chian School of Business	2015-02-03 0:00:00
+G4837466F	Lee Kong Chian School of Business	2018-02-02 0:00:00
+S5779711E	Lee Kong Chian School of Business	2016-01-22 0:00:00
+G3136398I	Lee Kong Chian School of Business	2016-03-25 0:00:00
+G9334910Z	Lee Kong Chian School of Business	2016-05-04 0:00:00
+S2758713I	Lee Kong Chian School of Business	2016-01-20 0:00:00
+G9217215C	Lee Kong Chian School of Business	2016-04-24 0:00:00
+G7618562Q	Lee Kong Chian School of Business	2016-02-14 0:00:00
+G1621727O	Lee Kong Chian School of Business	2018-05-09 0:00:00
+S6500297F	Lee Kong Chian School of Business	2018-03-11 0:00:00
+S9214935M	Lee Kong Chian School of Business	2016-02-06 0:00:00
+G3741480J	Lee Kong Chian School of Business	2017-01-24 0:00:00
+S4649446I	Lee Kong Chian School of Business	2018-04-15 0:00:00
+G3424178I	Lee Kong Chian School of Business	2016-02-11 0:00:00
+G3505627W	Lee Kong Chian School of Business	2016-04-25 0:00:00
+G6711660M	Lee Kong Chian School of Business	2018-02-22 0:00:00
+S7695175S	Lee Kong Chian School of Business	2017-01-12 0:00:00
+S4611545K	Lee Kong Chian School of Business	2018-04-21 0:00:00
+S3414890T	Lee Kong Chian School of Business	2016-04-01 0:00:00
+S3943836N	Lee Kong Chian School of Business	2017-01-22 0:00:00
+S6269776A	Lee Kong Chian School of Business	2017-01-02 0:00:00
+S4420150L	Lee Kong Chian School of Business	2016-04-25 0:00:00
+G5737974Q	Lee Kong Chian School of Business	2017-02-19 0:00:00
+G1860566A	Lee Kong Chian School of Business	2018-04-16 0:00:00
+G9123342V	Lee Kong Chian School of Business	2016-02-09 0:00:00
+G6070246T	Lee Kong Chian School of Business	2018-02-22 0:00:00
+S7310264A	Lee Kong Chian School of Business	2018-02-25 0:00:00
+G2164672B	Lee Kong Chian School of Business	2016-05-05 0:00:00
+S1524184E	Lee Kong Chian School of Business	2016-04-16 0:00:00
+S7746026F	Lee Kong Chian School of Business	2015-03-22 0:00:00
+G1808114D	Lee Kong Chian School of Business	2015-04-27 0:00:00
+S7716548W	Lee Kong Chian School of Business	2015-01-18 0:00:00
+G1972304L	Lee Kong Chian School of Business	2016-01-05 0:00:00
+S5202641F	Lee Kong Chian School of Business	2017-04-10 0:00:00
+S4831788E	Lee Kong Chian School of Business	2015-04-16 0:00:00
+G3188338A	Lee Kong Chian School of Business	2018-05-27 0:00:00
+S1890607T	Lee Kong Chian School of Business	2016-02-09 0:00:00
+S2898553W	Lee Kong Chian School of Business	2016-01-14 0:00:00
+G8573893I	Lee Kong Chian School of Business	2018-01-13 0:00:00
+S2837130N	Lee Kong Chian School of Business	2016-05-27 0:00:00
+G6236400X	Lee Kong Chian School of Business	2016-03-02 0:00:00
+S9312268F	Lee Kong Chian School of Business	2015-02-19 0:00:00
+G3817089Z	Lee Kong Chian School of Business	2015-02-24 0:00:00
+S4296529A	Lee Kong Chian School of Business	2016-05-26 0:00:00
+G1909981S	Lee Kong Chian School of Business	2015-02-18 0:00:00
+G9698447M	Lee Kong Chian School of Business	2017-02-15 0:00:00
+S1907931P	Lee Kong Chian School of Business	2017-02-17 0:00:00
+G5909842R	Lee Kong Chian School of Business	2016-01-05 0:00:00
+G4860972I	Lee Kong Chian School of Business	2018-02-21 0:00:00
+G4099153A	Lee Kong Chian School of Business	2016-03-16 0:00:00
+G1308581G	Lee Kong Chian School of Business	2017-05-19 0:00:00
+S8329755B	Lee Kong Chian School of Business	2016-05-11 0:00:00
+G7144489T	Lee Kong Chian School of Business	2016-03-23 0:00:00
+G5762926S	Lee Kong Chian School of Business	2016-01-03 0:00:00
+S3724818O	Lee Kong Chian School of Business	2016-02-15 0:00:00
+S6098176Y	Lee Kong Chian School of Business	2017-05-16 0:00:00
+G3905841B	Lee Kong Chian School of Business	2015-03-17 0:00:00
+S8460523N	Lee Kong Chian School of Business	2015-05-26 0:00:00
+G3601136F	Lee Kong Chian School of Business	2018-02-09 0:00:00
+S9209376H	Lee Kong Chian School of Business	2017-03-17 0:00:00
+G4342386S	Lee Kong Chian School of Business	2018-01-25 0:00:00
+S6257896X	Lee Kong Chian School of Business	2016-05-17 0:00:00
+G1670608F	School of Information Systems	2018-03-12 0:00:00
+G3214004W	School of Information Systems	2015-01-14 0:00:00
+G4516181I	School of Information Systems	2016-05-17 0:00:00
+S3765819D	School of Information Systems	2016-04-08 0:00:00
+G6546878H	School of Information Systems	2016-02-07 0:00:00
+G4091976F	School of Information Systems	2015-01-26 0:00:00
+G9891706K	School of Information Systems	2018-02-25 0:00:00
+G4040154Z	School of Information Systems	2018-01-14 0:00:00
+G6678606G	School of Information Systems	2018-01-18 0:00:00
+G7161414V	School of Information Systems	2016-01-15 0:00:00
+S5629158I	School of Information Systems	2016-03-13 0:00:00
+S9654347M	School of Information Systems	2018-02-09 0:00:00
+S9555630K	School of Information Systems	2016-04-17 0:00:00
+G9560141W	School of Information Systems	2017-05-25 0:00:00
+G7275239E	School of Information Systems	2016-04-20 0:00:00
+G3068906B	School of Information Systems	2017-04-22 0:00:00
+S5451042B	School of Information Systems	2016-02-09 0:00:00
+G6547617K	School of Information Systems	2016-02-02 0:00:00
+G3852753H	School of Information Systems	2015-05-02 0:00:00
+S5837940S	School of Social Sciences	2015-04-26 0:00:00
+S5090961Q	School of Social Sciences	2016-02-12 0:00:00
+G1502816S	School of Social Sciences	2015-05-08 0:00:00
+G4198171R	School of Social Sciences	2016-05-20 0:00:00
+G2960795S	School of Social Sciences	2016-04-17 0:00:00
+S5884439R	School of Social Sciences	2015-02-26 0:00:00
+S9773487T	School of Social Sciences	2015-02-08 0:00:00
+S5446561G	School of Social Sciences	2016-02-25 0:00:00
+G1478563F	School of Social Sciences	2016-02-24 0:00:00
+G9166347G	School of Social Sciences	2018-01-18 0:00:00
+S5539960C	School of Social Sciences	2017-02-11 0:00:00
+G3517621G	School of Social Sciences	2016-03-16 0:00:00
+S7418540U	School of Social Sciences	2016-02-23 0:00:00
+S9942502Q	School of Social Sciences	2017-04-14 0:00:00
+S8204655L	School of Social Sciences	2017-02-24 0:00:00
+S6351084H	School of Social Sciences	2018-03-23 0:00:00
+G6446910D	School of Social Sciences	2016-05-10 0:00:00
+G7469456I	School of Social Sciences	2017-05-15 0:00:00
+G5448148N	School of Social Sciences	2016-04-20 0:00:00
+S4707322L	School of Social Sciences	2016-01-15 0:00:00
+S9020029D	School of Social Sciences	2016-04-01 0:00:00
+S9677868X	School of Social Sciences	2015-02-27 0:00:00
+G6317530X	School of Social Sciences	2015-01-22 0:00:00
+S7408329E	School of Social Sciences	2018-01-22 0:00:00
+G3215423M	School of Social Sciences	2018-02-11 0:00:00
+S9364404F	School of Social Sciences	2017-03-25 0:00:00
+S6134563W	School of Social Sciences	2018-02-02 0:00:00
+S8882415S	School of Social Sciences	2016-01-04 0:00:00
+G7713333Y	School of Social Sciences	2016-02-21 0:00:00
+G8091387F	School of Social Sciences	2017-05-07 0:00:00
+S9068054P	School of Law	2018-01-09 0:00:00
+G6087362T	School of Law	2016-02-02 0:00:00
+S8018571C	School of Law	2016-04-20 0:00:00
+S3102693F	School of Law	2017-04-03 0:00:00
+G2711004Z	School of Law	2018-03-27 0:00:00
+G2193714K	School of Law	2016-03-25 0:00:00
+S3889202W	School of Law	2016-02-15 0:00:00
+S6715346S	School of Law	2016-04-15 0:00:00
+S4833255V	School of Law	2015-05-01 0:00:00
+G1887410D	School of Law	2018-01-23 0:00:00
+S9214614K	School of Accountancy	2015-01-27 0:00:00
+G8274424J	School of Accountancy	2017-04-24 0:00:00
+S8101925Y	School of Accountancy	2016-05-16 0:00:00
+S2736182H	School of Accountancy	2016-03-27 0:00:00
+G9259284A	School of Accountancy	2017-03-11 0:00:00
+S8640160O	School of Accountancy	2018-01-06 0:00:00
+S8875214W	School of Accountancy	2015-04-05 0:00:00
+S5338640F	School of Accountancy	2015-02-27 0:00:00
+S3950875D	School of Accountancy	2016-01-15 0:00:00
+S9863137H	School of Accountancy	2017-05-17 0:00:00
+S8838938T	School of Accountancy	2015-04-02 0:00:00
+S3612014K	School of Accountancy	2018-04-04 0:00:00
+S2521462Y	School of Accountancy	2017-05-10 0:00:00
+G3165721H	School of Economics	2018-02-13 0:00:00
+S1474034R	School of Economics	2016-05-19 0:00:00
+G5993120I	School of Economics	2015-01-01 0:00:00
+S5870710U	School of Economics	2018-05-08 0:00:00
+S6479878E	School of Economics	2018-02-10 0:00:00
+S3936500N	School of Economics	2016-03-12 0:00:00
+G9330585K	School of Economics	2016-05-14 0:00:00
+S4454511H	School of Economics	2018-04-22 0:00:00
+S8245166J	School of Economics	2018-01-09 0:00:00
+S2386743U	School of Economics	2015-04-07 0:00:00
+S5363369N	School of Economics	2018-03-15 0:00:00
+G6733665S	School of Economics	2016-01-19 0:00:00
+G8606457L	School of Economics	2016-04-18 0:00:00
+S4247501R	School of Economics	2016-01-23 0:00:00
+S8691008O	School of Economics	2016-01-10 0:00:00
+S3153717N	School of Economics	2017-01-12 0:00:00
+G1208785A	School of Economics	2017-05-06 0:00:00
+G2636463J	School of Economics	2015-02-20 0:00:00
+S9547045P	School of Economics	2017-02-09 0:00:00
+G8202023S	School of Economics	2016-01-14 0:00:00
+G8308907M	School of Economics	2017-01-13 0:00:00
+G6333129R	School of Economics	2018-05-21 0:00:00
+G2704531B	Lee Kong Chian School of Business	2016-03-10 0:00:00
+S3380967A	Lee Kong Chian School of Business	2017-03-12 0:00:00
+G3987927S	Lee Kong Chian School of Business	2016-05-12 0:00:00
+G1729413D	Lee Kong Chian School of Business	2016-02-18 0:00:00
+G4608962W	Lee Kong Chian School of Business	2018-05-06 0:00:00
+G7112022G	Lee Kong Chian School of Business	2015-02-11 0:00:00
+G5540533Z	Lee Kong Chian School of Business	2016-01-23 0:00:00
+G2093194D	Lee Kong Chian School of Business	2016-05-27 0:00:00
+G6050455O	Lee Kong Chian School of Business	2017-02-27 0:00:00
+G7276494R	Lee Kong Chian School of Business	2017-05-05 0:00:00
+S5538436C	Lee Kong Chian School of Business	2015-05-22 0:00:00
+S8722061T	Lee Kong Chian School of Business	2016-02-25 0:00:00
+G3676531B	Lee Kong Chian School of Business	2015-03-06 0:00:00
+G5977969S	Lee Kong Chian School of Business	2017-03-02 0:00:00
+S9966116D	Lee Kong Chian School of Business	2017-05-18 0:00:00
+G6759292P	Lee Kong Chian School of Business	2015-02-05 0:00:00
+G2062544D	Lee Kong Chian School of Business	2018-03-20 0:00:00
+G9820879F	Lee Kong Chian School of Business	2017-02-08 0:00:00
+S5791335N	Lee Kong Chian School of Business	2018-02-27 0:00:00
+G2604877Z	Lee Kong Chian School of Business	2018-05-25 0:00:00
+G5258103F	Lee Kong Chian School of Business	2018-02-11 0:00:00
+G9269676O	Lee Kong Chian School of Business	2016-04-14 0:00:00
+G9307332Z	Lee Kong Chian School of Business	2018-05-26 0:00:00
+G6870249K	Lee Kong Chian School of Business	2017-04-04 0:00:00
+S9500432P	Lee Kong Chian School of Business	2016-02-01 0:00:00
+G3541304N	Lee Kong Chian School of Business	2015-02-04 0:00:00
+G3884598W	Lee Kong Chian School of Business	2016-02-17 0:00:00
+S8854097J	Lee Kong Chian School of Business	2016-02-03 0:00:00
+S4466659W	Lee Kong Chian School of Business	2015-02-03 0:00:00
+S4708425E	Lee Kong Chian School of Business	2017-03-17 0:00:00
+G9545088I	Lee Kong Chian School of Business	2015-02-04 0:00:00
+S9579942U	Lee Kong Chian School of Business	2018-03-10 0:00:00
+G6569470C	Lee Kong Chian School of Business	2016-04-18 0:00:00
+S9483160X	Lee Kong Chian School of Business	2015-01-07 0:00:00
+S7184265N	Lee Kong Chian School of Business	2016-02-13 0:00:00
+S8794438L	Lee Kong Chian School of Business	2017-05-24 0:00:00
+S5902347E	Lee Kong Chian School of Business	2017-03-04 0:00:00
+S3592325D	Lee Kong Chian School of Business	2017-01-06 0:00:00
+S9460202A	Lee Kong Chian School of Business	2015-01-15 0:00:00
+G3244660K	Lee Kong Chian School of Business	2015-04-06 0:00:00
+G1781606A	Lee Kong Chian School of Business	2017-02-22 0:00:00
+G4440348G	Lee Kong Chian School of Business	2018-01-13 0:00:00
+G8620388E	Lee Kong Chian School of Business	2018-05-12 0:00:00
+G2918774J	Lee Kong Chian School of Business	2016-04-08 0:00:00
+S5513291R	Lee Kong Chian School of Business	2018-04-10 0:00:00
+G7064520A	Lee Kong Chian School of Business	2016-04-17 0:00:00
+S4218805H	Lee Kong Chian School of Business	2016-04-24 0:00:00
+S2151505T	Lee Kong Chian School of Business	2018-03-03 0:00:00
+S8827457G	Lee Kong Chian School of Business	2015-01-22 0:00:00
+G1471709X	Lee Kong Chian School of Business	2017-04-26 0:00:00
+S6071694F	Lee Kong Chian School of Business	2015-02-11 0:00:00
+G6998244V	Lee Kong Chian School of Business	2018-02-17 0:00:00
+G7976847X	Lee Kong Chian School of Business	2016-04-04 0:00:00
+S3756316S	Lee Kong Chian School of Business	2017-04-25 0:00:00
+G5348713G	Lee Kong Chian School of Business	2017-04-16 0:00:00
+S3594932T	Lee Kong Chian School of Business	2017-02-20 0:00:00
+G1233432R	Lee Kong Chian School of Business	2017-05-21 0:00:00
+S1288007Q	Lee Kong Chian School of Business	2016-03-04 0:00:00
+S8193138S	Lee Kong Chian School of Business	2018-05-17 0:00:00
+G2480926K	Lee Kong Chian School of Business	2016-02-25 0:00:00
+S5265547X	Lee Kong Chian School of Business	2015-05-14 0:00:00
+G7207732J	Lee Kong Chian School of Business	2018-05-17 0:00:00
+S5976977Y	Lee Kong Chian School of Business	2018-05-10 0:00:00
+S4994974W	Lee Kong Chian School of Business	2018-04-08 0:00:00
+S5768989N	Lee Kong Chian School of Business	2016-01-14 0:00:00
+G3991720E	Lee Kong Chian School of Business	2016-05-07 0:00:00
+S3781706J	Lee Kong Chian School of Business	2016-05-08 0:00:00
+G7061659B	Lee Kong Chian School of Business	2015-05-19 0:00:00
+S7123288W	Lee Kong Chian School of Business	2017-03-20 0:00:00
+S9012939C	Lee Kong Chian School of Business	2017-01-11 0:00:00
+G7277053N	Lee Kong Chian School of Business	2016-03-06 0:00:00
+G4840111V	Lee Kong Chian School of Business	2016-02-20 0:00:00
+G4833723Q	Lee Kong Chian School of Business	2017-04-11 0:00:00
+G8077726Q	Lee Kong Chian School of Business	2018-02-27 0:00:00
+S1906117S	Lee Kong Chian School of Business	2017-01-26 0:00:00
+S1171870D	Lee Kong Chian School of Business	2018-03-14 0:00:00
+G5348690U	Lee Kong Chian School of Business	2015-01-04 0:00:00
+G4783116V	Lee Kong Chian School of Business	2016-02-21 0:00:00
+S4561263N	Lee Kong Chian School of Business	2016-03-19 0:00:00
+S9939688B	School of Information Systems	2017-02-17 0:00:00
+G9820450X	School of Information Systems	2015-05-16 0:00:00
+G5666811A	School of Information Systems	2016-04-06 0:00:00
+G5005469S	School of Information Systems	2016-02-13 0:00:00
+G4856411Y	School of Information Systems	2016-02-08 0:00:00
+G7723713W	School of Information Systems	2015-03-25 0:00:00
+S4105423I	School of Information Systems	2016-03-26 0:00:00
+S7384731A	School of Information Systems	2016-02-08 0:00:00
+S3490621U	School of Information Systems	2015-02-01 0:00:00
+S7778953Y	School of Information Systems	2016-03-02 0:00:00
+S8199304O	School of Information Systems	2017-05-01 0:00:00
+G8222765V	School of Information Systems	2017-02-16 0:00:00
+S6696584D	School of Information Systems	2018-03-10 0:00:00
+G5746978R	School of Information Systems	2015-01-23 0:00:00
+S1475974S	School of Information Systems	2018-04-10 0:00:00
+S5878885X	School of Information Systems	2017-02-06 0:00:00
+S1130579W	School of Information Systems	2015-04-02 0:00:00
+G2164855Y	School of Information Systems	2018-05-09 0:00:00
+G2350268E	School of Information Systems	2016-01-05 0:00:00
+S9795863M	School of Social Sciences	2018-03-08 0:00:00
+G3422369W	School of Social Sciences	2016-01-07 0:00:00
+G5914491B	School of Social Sciences	2016-04-20 0:00:00
+G2358509G	School of Social Sciences	2015-05-27 0:00:00
+S5535497V	School of Social Sciences	2016-03-27 0:00:00
+S3867523T	School of Social Sciences	2016-04-19 0:00:00
+G5005171N	School of Social Sciences	2018-05-15 0:00:00
+G3980806F	School of Social Sciences	2015-02-10 0:00:00
+S2109129O	School of Social Sciences	2015-02-04 0:00:00
+S3520907Z	School of Social Sciences	2016-03-06 0:00:00
+G8328725F	School of Social Sciences	2016-02-13 0:00:00
+S1500041F	School of Social Sciences	2015-04-20 0:00:00
+S6671889S	School of Social Sciences	2017-05-03 0:00:00
+G3644923K	School of Social Sciences	2018-03-07 0:00:00
+G4427808K	School of Social Sciences	2015-04-16 0:00:00
+G6710568W	School of Social Sciences	2017-04-23 0:00:00
+G6806871D	School of Social Sciences	2016-05-02 0:00:00
+G3189498A	School of Social Sciences	2017-01-19 0:00:00
+G1126662B	School of Social Sciences	2017-04-11 0:00:00
+S3251920S	School of Social Sciences	2016-05-15 0:00:00
+G5219950V	School of Social Sciences	2016-04-15 0:00:00
+G4697305S	School of Social Sciences	2018-03-13 0:00:00
+G4073042H	School of Social Sciences	2017-05-27 0:00:00
+S8141760Y	School of Social Sciences	2017-05-13 0:00:00
+G6855744R	School of Social Sciences	2018-04-08 0:00:00
+G8416963O	School of Social Sciences	2018-05-06 0:00:00
+G5969651O	School of Social Sciences	2016-03-16 0:00:00
+S2998518U	School of Social Sciences	2016-02-01 0:00:00
+G8735543N	School of Social Sciences	2015-02-09 0:00:00
+G1878146N	School of Social Sciences	2017-01-22 0:00:00
+G947898TJ	School of Accountancy	2018-03-20 0:00:00
+G3645342U	Lee Kong Chian School of Business	2018-04-20 0:00:00
+S9545643Y	School of Economics	2018-02-20 0:00:00
+G7867543H	Lee Kong Chian School of Business	2018-01-20 0:00:00
+G5643267H	School of Law	2017-03-15 0:00:00
+S9064888G	School of Information Systems	2017-04-30 0:00:00

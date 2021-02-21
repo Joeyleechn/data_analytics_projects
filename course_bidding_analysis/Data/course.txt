@@ -1,0 +1,167 @@
+cid	title	pid
+ACCT101	Financial Accounting 	BAcc
+ACCT102	Management Accounting 	BAcc
+ACCT105	Financial Accounting for Law	BAcc
+ACCT201	Corporate Reporting and Financial Analysis	BAcc
+ACCT207	Applied Governance and Risk Management for Student Organizations	BAcc
+ACCT221	Accounting Information Systems	BAcc
+ACCT223	Taxation	BAcc
+ACCT224	Financial Reporting and Analysis	BAcc
+ACCT302	Accounting for Entrepreneurs	BAcc
+ACCT321	Ethics and Social Responsibility	BAcc
+ACCT331	Audit and Assurance	BAcc
+ACCT334	Intermediate Financial Accounting	BAcc
+ACCT402	Governance and Risk Management	BAcc
+ACCT407	Corporate Financial Management 	BAcc
+ACCT409	Auditing for the Public Sector	BAcc
+ACCT417	Insolvency and Restructuring	BAcc
+ACCT419	Statistical Programming 	BAcc
+ACCT420	Forecasting and Forensic Analytics	BAcc
+ACM101	Art History: From the Beginnings to the Revolutions	BSS
+ACM304	Exhibitions and Curating	BSS
+COMM101	Management Communication	BBM
+COMM225	Public Relations Writing	BBM
+COMM226	Organisational Communication	BBM
+COMM254	Corporate Culture and Values	BBM
+COR-IS1702	Computational Thinking	BSIS
+COR1305	Spreadsheet Modeling and Analytics	BSIS
+CS101	Programming Fundamentals I	BSCS
+CS102	Programming Fundamentals II	BSCS
+CS103	Linear Algebra for Computing Applications	BSCS
+CS104	Mathematical Foundations for Computing	BSCS
+CS105	Statistical Thinking for Data Science	BSCS
+CS106	Computer Hardware and Embedded Systems	BSCS
+CS204	Interconnection of Cyber-Physical Systems	BSCS
+CS206	Software Project Management	BSCS
+CS301	IT Solution Architecture	BSCS
+CS420	Introduction to Artificial Intelligence	BSCS
+CS421	Introduction to Machine Learning	BSCS
+CS422	"Reasoning, Planning and Learning under Uncertainty"	BSCS
+CS442	Data Security and Privacy	BSCS
+CS483	Computer Science Project Experience	BSCS
+DSA211	Statistical Learning with R	BSEcons
+ECON101	Intermediate Microeconomics	BSEcons
+ECON102	Intermediate Macroeconomics	BSEcons
+ECON104	Introductory Economics	BSEcons
+ECON107	Introduction to Econometrics	BSEcons
+ECON206	Game Theory	BSEcons
+ECON217	Macroeconomics of Income Distribution	BSEcons
+ECON225	Health Systems and Policy	BSEcons
+ECON226	Urban Economics and Policy	BSEcons
+ECON234	International Trade	BSEcons
+ECON235	International Macroeconomics	BSEcons
+ECON241	Strategic Thinking	BSEcons
+ECON313	Economics of Globalisation	BSEcons
+ECON336	International Microeconomics	BSEcons
+ECON431	Maritime Economics & Shipping Finance	BSEcons
+ECON432	Port Economics & Management	BSEcons
+FNCE101	Finance	BBM
+FNCE102	"Financial Instruments, Institutions and Markets"	BBM
+FNCE201	Corporate Finance	BBM
+FNCE204	Analysis of Fixed-Income Investment	BBM
+FNCE221	Investment Banking	BBM
+FNCE225	Consumer Banking 	BBM
+FNCE229	Corporate banking	BBM
+FNCE310	Trade Finance	BBM
+FNCE311	Mergers & Acquisitions	BBM
+FNCE403	Finance for Law	BBM
+IDID300	Scholars Study Mission	BBM
+IDIS103	Urban Cultures	BSS
+IDIS209	"Intellectual Assets, Technology and Society"	BSS
+IDIS305	"Science, Environment and Empire"	BSS
+IDIS306	Digital Cultures	BSS
+IDIS404	Big Questions (Happiness and Suffering)	BSS
+IS102	Computer as an Analysis Tool	BSIS
+IS103	Computational Thinking	BSIS
+IS110	Information Systems and Innvovation	BSIS
+IS111	Introduction to Programming	BSIS
+IS112	Data Management	BSIS
+IS113	Web Development	BSIS
+IS210	Business Process Analysis & Solutioning	BSIS
+IS211	Interaction Design and Prototyping	BSIS
+IS212	Software Project Management	BSIS
+IS213	Enterprise Solution Development	BSIS
+IS214	Enterprise Solution Management	BSIS
+IS301	Internet Of Things 	BSIS
+IS302	Enterprise Business Solutions	BSIS
+IS303	Architectural Analysis	BSIS
+IS305	Enterprise Web Solutions	BSIS
+IS425	Managing Information Systems for Business Value	BSIS
+IS427	Technopreneurship Study Mission 	BSIS
+IS428	Visual Analytics for Business Intelligence	BSIS
+IS433	Information Security Management	BSIS
+IS444	Digital Banking Enterprise Architecture	BSIS
+LAW101	Contract Law	BL
+LAW102	Criminal Law	BL
+LAW106	Legal Research & Writing	BL
+LAW108	The Singapore Legal System	BL
+LAW201	Law of Business Organisation	BL
+LAW202	Law of Property	BL
+LAW204	Constitutional & Administrative Law	BL
+LAW301	Legal Theory & Philosophy	BL
+LAW302	Commercial Conflict of Laws	BL
+LAW303	Law of Equity & Trusts 	BL
+LAW307	Law of Evidence	BL
+LAW401	Intellectual Property Law	BL
+LAW404	Public International Law	BL
+LAW410	WTO: Law and Policy	BL
+LAW422	Trade & Investment Law 	BL
+LAW428	Family Law	BL
+LAW447	International Construction Law	BL
+LAW459	Drafting in Corporate Practice	BL
+LAW477	Law and Psychology	BL
+LAW489	Introduction to Law & Technology 	BL
+LAW499	Legal Commentaries for Practice 	BL
+LGST101	Company Law	BL
+LGST201	Business Law	BL
+LGST301	Ethics & Social Responsibility	BL
+MATH101	Calculus	BBM
+MGMT102	Technology & World Change 	BBM
+MGMT103	"Business, Government & Society"	BBM
+MGMT205	International Business	BBM
+MGMT223	Social Entrepreneurship	BBM
+MGMT318	Design Thinking and Innovation	BBM
+MGMT319	Management of Technology and Innovation	BBM
+MGMT320	Innovations for Asia's Smart Cities	BBM
+MGMT323	Business Consulting	BBM
+MGMT404	Creative Thinking	BBM
+MGMT405	Corporate Entrepreneurship and Innovation	BBM
+MKTG220	Digital Marketing	BBM
+MKTG228	Marketing Analytics	BBM
+OBHR101	Leadership & Teambuilding	BBM
+OBHR224	Human Capital Strategy	BBM
+OBHR225	Technology Solutions for Human Resources	BBM
+OBHR302	Ethics and Corporate Responsibility	BBM
+OPIM214	Logistics and Transportation Management	BBM
+OPIM321	Supply Chain Management	BBM
+OPIM325	Sales and Operations Planning	BBM
+OPIM413	Project Management	BBM
+POSC101	Introduction to Public Policy 	BSS
+POSC103	World Politics	BSS
+POSC213	Politics of South East Asia	BSS
+POSC215	Democracy	BSS
+PPPM101	Public Sector Management	BSS
+PPPM106	Policy Design and Analysis	BSS
+PPPM201	Environmental Politics and Policy	BSS
+PPPM301	Public Policy Task Force	BSS
+PSYC102	Introduction to Psychology	BSS
+PSYC103	Social Psychology	BSS
+PSYC208	Psychology Research Methods 	BSS
+QF101	Quantitative Finance	BBM
+QF105	Global Financial Risk Management	BBM
+SMT112	Sustainable Digital Cities	BSS
+SMT201	Geospatial Analytics for Urban Planning 	BSIS
+SMT203	Smart City Systems & Management	BSIS
+SMT483	Smart City Project Experience	BSIS
+SOCG201	Social Stratification and Inequality	BSS
+SOCG203	Gender and Family	BSS
+SOCG220	Sociology of Terrorism and Political Violence	BSS
+SOCG221	Sociological Theories of Crime and Deviance	BSS
+SOCG224	Sociology of Work	BSS
+SOCG225	Migration and Urbanization	BSS
+SOCG304	Social Networks	BSS
+STAT101	Introductory Statistics	BSEcons
+STAT201	Probability Theory and Applications	BSEcons
+STAT203	Financial Mathematics	BSEcons
+STAT311	Risk Theory and Loss Models	BSEcons
+TRAD201	Shipping Business	BBM

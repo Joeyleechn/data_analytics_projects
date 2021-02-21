@@ -1,0 +1,1152 @@
+sid	stu_name	email	init_edollars	type	pid
+S1510159Z	Latisha Jeffery	latisha.2016@smu.edu.sg	75.57		BSIS
+G9307332Z	Kuba Thatcher	kuba.2017@smu.edu.sg	75.59	SM	BSEcons
+S9209376H	Ceara Huang	ceara.2016@smu.edu.sg	76.06	SM	BSEcons
+S2361403M	Laiba Britt	laiba.2016@smu.edu.sg	76.08		BAcc
+G4976926J	Stewart Fritz	stewart.2015@smu.edu.sg	76.63	DD	BSEcons
+S2118991K	Efe Tierney	efe.2017@smu.edu.sg	77.04		BAcc
+G1860566A	Aleeza Vinson	aleeza.2017@smu.edu.sg	77.05	SM	BAcc
+G5601595Z	Azra Ritter	azra.2014@smu.edu.sg	77.48	DD	BSIS
+G5950964O	Oskar Drummond	oskar.2014@smu.edu.sg	77.53		BSIS
+G9216788E	Gillian Hurst	gillian.2016@smu.edu.sg	77.8		BL
+S2142603K	Alysia Clegg	alysia.2015@smu.edu.sg	160.53	DD	BAcc
+G5244327C	Colette Harding	colette.2016@smu.edu.sg	78.19	DD	BL
+G9871356D	Reon Calvert	reon.2016@smu.edu.sg	78.2	SM	BSIS
+G8948586X	Owen Wilcox	owen.2014@smu.edu.sg	78.24		BBM
+G7268886D	Coen Rowley	coen.2016@smu.edu.sg	78.35	DD	BSEcons
+S9217738X	Winston Wyatt	winston.2014@smu.edu.sg	78.84		BSS
+S4276365M	Orson Gould	orson.2015@smu.edu.sg	79.16		BBM
+G8799261X	Hope Houston	hope.2014@smu.edu.sg	79.18		BL
+S9020029D	Autumn Childs	autumn.2015@smu.edu.sg	79.82	SM	BSEcons
+G2556117Y	Amelia-Grace Walsh	amelia-grace.2014@smu.edu.sg	80.18		BSIS
+G1621727O	Conna Roth	conna.2017@smu.edu.sg	80.28	SM	BSS
+G4412975F	Danniella Henry	danniella.2014@smu.edu.sg	80.79	DD	BAcc
+G8222765V	Lola-Mae Mccallum	lola-mae.2016@smu.edu.sg	80.8	SM	BL
+S4040248S	Emillie Baldwin	emillie.2016@smu.edu.sg	81.06		BSEcons
+G3677894F	Brook Valenzuela	brook.2017@smu.edu.sg	81.1		BSS
+G8842873W	Jade Freeman	jade.2014@smu.edu.sg	81.13		BL
+G3741480J	Zena Huffman	zena.2016@smu.edu.sg	81.32	SM	BSS
+S7184265N	Penelope Grainger	penelope.2015@smu.edu.sg	81.43	SM	BAcc
+S1142695B	Alistair Gibson	alistair.2014@smu.edu.sg	81.58		BL
+G3974478R	Samanta Browning	samanta.2016@smu.edu.sg	81.61		BL
+S5931282T	Salahuddin Philip	salahuddin.2016@smu.edu.sg	81.66		BL
+S8728867C	Jason Gilmore	jason.2014@smu.edu.sg	81.67		BBM
+S2521462Y	Rhodri Larsen	rhodri.2016@smu.edu.sg	81.76	SM	BL
+G9772905L	Dawid Richardson	dawid.2017@smu.edu.sg	82.04		BL
+G6114178Q	Geraldine Snow	geraldine.2014@smu.edu.sg	82.07	SM	BBM
+G7439522B	Tyrese Bass	tyrese.2017@smu.edu.sg	82.43		BSEcons
+S1896115P	Eleanor David	eleanor.2015@smu.edu.sg	82.56	DD	BSEcons
+G8674564M	Arley Walton	arley.2014@smu.edu.sg	82.58		BSIS
+S4421898X	Ifan Hail	ifan.2016@smu.edu.sg	82.63		BL
+G3385943F	Safia Hutton	safia.2014@smu.edu.sg	82.67	SM	BSIS
+G5969651O	Tatiana Neale	tatiana.2015@smu.edu.sg	83	SM	BSIS
+S6211862R	Dominik Parrish	dominik.2014@smu.edu.sg	83.3		BL
+G7722809L	Billie-Jo Potts	billie-jo.2017@smu.edu.sg	83.71	DD	BSS
+G8836608P	Olivier O'Sullivan	olivier.2017@smu.edu.sg	83.77		BBM
+S8193138S	Jorja Maynard	jorja.2017@smu.edu.sg	84.18	SM	BAcc
+G4546862T	Asad Hamilton	asad.2017@smu.edu.sg	84.39		BSIS
+S4061579Z	Aniela Potter	aniela.2015@smu.edu.sg	84.41	DD	BAcc
+G3633864N	Mila-Rose Hamer	mila-rose.2014@smu.edu.sg	84.65		BAcc
+G5640927P	Danish Avila	danish.2017@smu.edu.sg	84.94		BSS
+G3189498A	Maureen Pearce	maureen.2016@smu.edu.sg	84.99	SM	BSEcons
+S3507440C	Tobi Solomon	tobi.2017@smu.edu.sg	85.37		BSIS
+G5964233I	Enoch Roberts	enoch.2016@smu.edu.sg	85.58	DD	BL
+S8854097J	Codey Hollis	codey.2014@smu.edu.sg	85.63	SM	BAcc
+S8847299P	Aadil Shields	aadil.2014@smu.edu.sg	85.84		BSIS
+S1357916B	Carley Hamer	carley.2014@smu.edu.sg	85.86		BSIS
+S1234567D	Micheal Pope	micheal.2014@smu.edu.sg	85.87		BL
+G5205470L	Zuzanna Chen	zuzanna.2014@smu.edu.sg	85.88	DD	BAcc
+S5103997Q	Izabel Lewis	izabel.2015@smu.edu.sg	86.25	DD	BL
+G6547617K	Giuseppe Hinton	giuseppe.2014@smu.edu.sg	86.8	SM	BSEcons
+S6798090E	Arfa Harwood	arfa.2014@smu.edu.sg	86.85		BL
+S6671889S	Kourtney Bush	kourtney.2016@smu.edu.sg	86.99	SM	BSEcons
+G3481635G	Javier Clay	javier.2015@smu.edu.sg	87.46		BSIS
+G2313297V	Romana Mathis	romana.2014@smu.edu.sg	87.72		BSS
+S6696584D	Marni Myers	marni.2017@smu.edu.sg	87.76	SM	BL
+S7830127B	Salma Coulson	salma.2017@smu.edu.sg	87.85		BSEcons
+S7408329E	Khadeejah Snider	khadeejah.2017@smu.edu.sg	88.69	SM	BBM
+G1386690Z	Armani Holloway	armani.2016@smu.edu.sg	88.8	DD	BAcc
+S1737549J	Madina Bush	madina.2017@smu.edu.sg	89.07	DD	BSEcons
+S1319763Z	Winston Beattie	winston.2016@smu.edu.sg	89.11		BBM
+G7713333Y	Jack Joseph	jack.2014@smu.edu.sg	89.25	SM	BBM
+G6087362T	Elsie Harrington	elsie.2015@smu.edu.sg	89.43	SM	BSEcons
+G1999241X	Seren Browne	seren.2015@smu.edu.sg	89.58		BSIS
+S1624801C	Riley-James Pitts	riley-james.2016@smu.edu.sg	89.65		BBM
+G8969885B	Veronica Heath	veronica.2015@smu.edu.sg	90.12	DD	BSEcons
+G1732988Z	Lydia Hewitt	lydia.2017@smu.edu.sg	90.27		BBM
+S5996152C	Alanna Chase	alanna.2016@smu.edu.sg	90.37		BSS
+S7677807A	Lyra Mcnally	lyra.2017@smu.edu.sg	90.53		BBM
+S8385201S	Florrie Nicholson	florrie.2015@smu.edu.sg	90.54		BSEcons
+G1198666U	Amara Cleveland	amara.2015@smu.edu.sg	90.81		BBM
+S7228400O	Mohammod Hinton	mohammod.2016@smu.edu.sg	90.81		BSIS
+G1220181E	Usmaan Rojas	usmaan.2015@smu.edu.sg	91.11	DD	BSEcons
+G1307714J	Blythe Adams	blythe.2014@smu.edu.sg	91.12		BSS
+S9214935M	Lianne Dejesus	lianne.2015@smu.edu.sg	91.58	SM	BSS
+S8018571C	Chloe-Louise Wang	chloe-louise.2015@smu.edu.sg	91.63	SM	BSEcons
+S7755175T	Alyssa Tanner	alyssa.2015@smu.edu.sg	91.76		BSS
+G4440348G	Mohammod Browne	mohammod.2017@smu.edu.sg	91.81	SM	BAcc
+S1677476P	Layla-Mae Hood	layla-mae.2014@smu.edu.sg	92.68		BL
+G5818280C	Arnav Hyde	arnav.2016@smu.edu.sg	92.74		BSIS
+S9065556M	Hamish Rowley	hamish.2017@smu.edu.sg	93.37		BSS
+G8051945O	Brenna Garrison	brenna.2015@smu.edu.sg	93.38		BL
+G1221017S	Ismail Harrington	ismail.2014@smu.edu.sg	93.51	DD	BAcc
+S3594932T	Eadie Battle	eadie.2016@smu.edu.sg	93.81	SM	BAcc
+G7389336X	Ammaar Bruce	ammaar.2014@smu.edu.sg	94.3		BSEcons
+G3480963O	Avaya Griffiths	avaya.2016@smu.edu.sg	94.72		BL
+G7567908Q	Leja Wallis	leja.2014@smu.edu.sg	94.74	DD	BSEcons
+S9975843I	Zaki Houston	zaki.2015@smu.edu.sg	94.87		BSS
+G6678606G	Mariam Christian	mariam.2017@smu.edu.sg	70	SM	BSEcons
+S7275280A	Tanvir Ford	tanvir.2017@smu.edu.sg	70.56		BL
+S5870710U	Bethaney Mcgregor	bethaney.2017@smu.edu.sg	70.65	SM	BSIS
+G6512590L	Abdi Richards	abdi.2015@smu.edu.sg	70.68	DD	BSS
+G4860972I	Aidan Sweeney	aidan.2017@smu.edu.sg	71.04	SM	BSEcons
+G8535302K	Anabel Higgs	anabel.2015@smu.edu.sg	71.04		BSS
+G6346018J	Kevin Leech	kevin.2015@smu.edu.sg	71.06		BBM
+S9152606R	Vincenzo Dillard	vincenzo.2014@smu.edu.sg	71.14	SM	BSS
+G7064520A	Evie-Mae Nava	evie-mae.2014@smu.edu.sg	71.15	SM	BAcc
+S8112837E	Jaspal Avila	jaspal.2014@smu.edu.sg	71.52		BAcc
+G9559011L	Enrico Franklin	enrico.2014@smu.edu.sg	71.6		BAcc
+G7071458G	Akaash Paul	akaash.2017@smu.edu.sg	71.77		BSIS
+S3693475W	Yousaf Santana	yousaf.2014@smu.edu.sg	72.02		BL
+G6931065Z	Dylon Robin	dylon.2014@smu.edu.sg	72.27		BL
+S2830608Z	Xander Travis	xander.2016@smu.edu.sg	72.29		BL
+G3276126W	Poppy Tait	poppy.2017@smu.edu.sg	72.37		BBM
+G2610717H	Gerard Hendricks	gerard.2017@smu.edu.sg	72.63	DD	BSS
+S7878345N	Gabriel Leighton	gabriel.2016@smu.edu.sg	73		BSCS
+G7888279X	Hafsa Martinez	hafsa.2014@smu.edu.sg	73.14	DD	BL
+G7891930D	Danial Moreno	danial.2014@smu.edu.sg	73.16		BBM
+G1316327H	Zackary Tapia	zackary.2016@smu.edu.sg	73.22		BSEcons
+S7726164T	Yanis Wharton	yanis.2017@smu.edu.sg	73.38	SM	BSS
+G2429820E	Harlow Rivera	harlow.2014@smu.edu.sg	73.6	SM	BSS
+G4007155W	Subhaan Parker	subhaan.2014@smu.edu.sg	73.7		BSIS
+G3127106O	Bessie Rojas	bessie.2015@smu.edu.sg	73.99		BSIS
+G4886962U	Kayson Monaghan	kayson.2017@smu.edu.sg	74.05		BSIS
+S9925521J	Niall Burn	niall.2014@smu.edu.sg	74.38	DD	BL
+G5005171N	Sanah Donaldson	sanah.2017@smu.edu.sg	74.49	SM	BAcc
+G9371795F	Gary Alcock	gary.2015@smu.edu.sg	74.54		BL
+G7783863H	Randall Flowers	randall.2015@smu.edu.sg	74.56		BSIS
+S8751945U	Saskia Rigby	saskia.2014@smu.edu.sg	74.67		BBM
+G1939586Z	Vivian Miranda	vivian.2016@smu.edu.sg	74.68		BSIS
+S2627033Z	Christian Cobb	christian.2014@smu.edu.sg	74.77		BAcc
+S4172182L	Kamile Dawe	kamile.2015@smu.edu.sg	74.79	SM	BSIS
+G8389223G	Raees Mcgowan	raees.2016@smu.edu.sg	74.89	DD	BSEcons
+S6421383D	Giuseppe Ashton	giuseppe.2017@smu.edu.sg	74.94		BSIS
+S7251720D	Ruari Ferrell	ruari.2014@smu.edu.sg	75	DD	BSS
+G2268559S	Jozef Nieves	jozef.2015@smu.edu.sg	75.16		BBM
+G8976456G	Hengs Hawthorne	hengs.2017@smu.edu.sg	75.5		BSCS
+G6578966T	Jetson Winsome	jetson.2016@smu.edu.sg	75.5		BSCS
+G6550637P	Prince Dougherty	prince.2017@smu.edu.sg	75.52		BSIS
+G3357807I	Raj Arnold	raj.2014@smu.edu.sg	75.6		BL
+S7975838E	Orson Short	orson.2017@smu.edu.sg	75.69		BSEcons
+S8061303S	Greyson Chung	greyson.2014@smu.edu.sg	75.95		BSEcons
+G4033677G	Sameer Bradshaw	sameer.2014@smu.edu.sg	75.99		BAcc
+G4962028F	Lilly-Grace Horner	lilly-grace.2016@smu.edu.sg	76.03		BSS
+G6710568W	Letitia Mullen	letitia.2016@smu.edu.sg	76.13	SM	BSEcons
+G5880696L	Aamna Harwood	aamna.2014@smu.edu.sg	76.15		BSS
+S6715346S	Ruby-Rose Mcloughlin	ruby-rose.2015@smu.edu.sg	76.45	SM	BBM
+S2254037C	April Cochran	april.2015@smu.edu.sg	76.46	DD	BBM
+G3143193L	Jordanna Henry	jordanna.2017@smu.edu.sg	76.87		BBM
+G1316881E	Belle Chung	belle.2014@smu.edu.sg	77.1		BSIS
+S3414890T	Hamish Rayner	hamish.2015@smu.edu.sg	77.28	SM	BAcc
+S4218805H	Kiana Todd	kiana.2014@smu.edu.sg	77.47	SM	BAcc
+G8735543N	Kia Bob	kia.2014@smu.edu.sg	77.93	SM	BSIS
+S2467552U	Kerri Tate	kerri.2014@smu.edu.sg	78.02		BSS
+S9202642T	Keon Villarreal	keon.2014@smu.edu.sg	78.02	SM	BSS
+S7795800L	Drew Wood	drew.2014@smu.edu.sg	78.25	SM	BSIS
+G9820879F	Carlo Leonard	carlo.2016@smu.edu.sg	78.58	SM	BSEcons
+G3702025W	Giovanni Rogers	giovanni.2017@smu.edu.sg	78.8		BL
+G9405098P	Afsana Mora	afsana.2015@smu.edu.sg	79.06		BSS
+S9583455I	Chase Head	chase.2015@smu.edu.sg	79.76		BSIS
+S6739827A	Dora Pate	dora.2017@smu.edu.sg	80.3		BBM
+S4302873A	Maisy Burnett	maisy.2017@smu.edu.sg	80.32	DD	BAcc
+G8620388E	Cai Slater	cai.2017@smu.edu.sg	80.36	SM	BAcc
+S7908362Q	Carrie Knapp	carrie.2014@smu.edu.sg	80.37	DD	BSIS
+S7209368J	Nadia Koch	nadia.2014@smu.edu.sg	80.62	DD	BBM
+G2352203W	Yusra Strong	yusra.2014@smu.edu.sg	80.71		BL
+G6050455O	Juliette Bautista	juliette.2016@smu.edu.sg	80.74	SM	BSS
+G4608962W	Francisco Swift	francisco.2017@smu.edu.sg	80.79	SM	BSS
+S2264761B	Roland Cairns	roland.2014@smu.edu.sg	80.91		BAcc
+S8449468W	Yassin Cleveland	yassin.2017@smu.edu.sg	80.99		BL
+G5563265M	Abdi Weiss	abdi.2014@smu.edu.sg	80.99		BL
+G2846964I	Leanne Spears	leanne.2017@smu.edu.sg	81.07		BSS
+S8640160O	Gareth Lynn	gareth.2017@smu.edu.sg	81.11	SM	BL
+G5660980C	Suhail O'Neill	suhail.2017@smu.edu.sg	81.15		BBM
+G5448148N	Fahmida Krueger	fahmida.2015@smu.edu.sg	81.53	SM	BSEcons
+G6733665S	Yara Porter	yara.2014@smu.edu.sg	81.67	SM	BSIS
+S2697055S	Gabrielius Martin	gabrielius.2016@smu.edu.sg	81.89		BSS
+S4431969Y	Brandan Chan	brandan.2015@smu.edu.sg	82.14		BL
+S3781706J	Celia Dawson	celia.2014@smu.edu.sg	82.16	SM	BAcc
+G4072838M	Coen Castro	coen.2014@smu.edu.sg	82.17		BAcc
+S7118637Y	Kathy Millington	kathy.2017@smu.edu.sg	82.37	DD	BSEcons
+G3010943F	Ezra Flowers	ezra.2014@smu.edu.sg	82.38	SM	BSIS
+S8343137Y	Kashif Parsons	kashif.2014@smu.edu.sg	82.48		BL
+S4751804M	Mischa Decker	mischa.2016@smu.edu.sg	82.53		BL
+S8935264Z	Essa Kirby	essa.2016@smu.edu.sg	82.84		BBM
+S7414127W	Macauley Watts	macauley.2015@smu.edu.sg	83.01	DD	BAcc
+G7320815O	Humayra Crawford	humayra.2015@smu.edu.sg	83.04	DD	BBM
+G9123342V	Luci Plummer	luci.2015@smu.edu.sg	83.3	SM	BAcc
+G1489995F	Mandeep Carter	mandeep.2017@smu.edu.sg	83.75		BBM
+G2711004Z	Jia Ahmad	jia.2017@smu.edu.sg	83.92	SM	BSEcons
+G9376564K	Craig Morris	craig.2016@smu.edu.sg	84		BSCS
+S2323321G	Justin Draper	justin.2016@smu.edu.sg	84		BSCS
+S8289267I	Tonicha Mccoy	tonicha.2014@smu.edu.sg	84.06		BSS
+G3852753H	Cai Gonzales	cai.2014@smu.edu.sg	84.22	SM	BSEcons
+S5991386P	Rhiannon Dunkley	rhiannon.2017@smu.edu.sg	84.33		BSIS
+G2844859D	Velma Mendez	velma.2016@smu.edu.sg	84.38		BSIS
+G9539377R	Charis Lu	charis.2015@smu.edu.sg	84.66	DD	BAcc
+S1944091I	Steven Keenan	steven.2014@smu.edu.sg	84.77	DD	BSS
+S9234456H	Bob Wills	bob.2017@smu.edu.sg	85		BSCS
+S9076431H	Kimberly Sherlock	kimberly.2017@smu.edu.sg	85		BSCS
+S8366180H	Chantelle Heath	chantelle.2015@smu.edu.sg	85.07		BSS
+S7775489G	Ikra Delaney	ikra.2014@smu.edu.sg	85.12	DD	BSS
+S9156777G	Gary Rain	gary.2016@smu.edu.sg	85.5		BSCS
+S9064888G	Jean Todd	jean.2016@smu.edu.sg	85.5	SM	BSCS
+S9833465H	Faraz Sandoval	faraz.2015@smu.edu.sg	85.51		BSS
+G9698447M	Dilan Roberson	dilan.2016@smu.edu.sg	85.71	SM	BSEcons
+S9623081G	Shereen Mayo	shereen.2015@smu.edu.sg	86.03	SM	BSS
+S7621452H	Luciano Mayer	luciano.2014@smu.edu.sg	86.06		BSIS
+S3251920S	Jareth Sweeney	jareth.2015@smu.edu.sg	86.46	SM	BSEcons
+G6236400X	Isaac Calderon	isaac.2014@smu.edu.sg	86.51	SM	BSEcons
+G9470332K	Francesca Hoover	francesca.2017@smu.edu.sg	86.57		BSS
+S9012939C	Woody Bain	woody.2016@smu.edu.sg	86.6	SM	BAcc
+G3987927S	Susie Ventura	susie.2015@smu.edu.sg	86.72	SM	BSS
+G4533514X	Carina Flores	carina.2016@smu.edu.sg	86.74		BBM
+S1274750V	Morwenna Thomson	morwenna.2015@smu.edu.sg	86.81		BSS
+S7192969D	Syed Zimmerman	syed.2014@smu.edu.sg	87.06		BBM
+S8200026G	Dhruv Shepherd	dhruv.2014@smu.edu.sg	87.17	SM	BSIS
+S7251696Q	Jayne Quinn	jayne.2014@smu.edu.sg	87.18		BSIS
+G9072689S	Abiha Parry	abiha.2014@smu.edu.sg	87.41		BSS
+S7123288W	Wayne Boyce	wayne.2016@smu.edu.sg	87.45	SM	BAcc
+G8339408W	Sultan Nielsen	sultan.2016@smu.edu.sg	87.48	SM	BSS
+G9924724X	Nathan Knowles	nathan.2016@smu.edu.sg	87.49		BBM
+S1540052T	Laylah Vo	laylah.2014@smu.edu.sg	87.71		BSEcons
+S8289625E	Catrina Preston	catrina.2014@smu.edu.sg	87.81	SM	BSIS
+G7439513S	Eve Fitzgerald	eve.2015@smu.edu.sg	88.01		BSS
+S8882415S	Rares Noble	rares.2014@smu.edu.sg	88.1	SM	BBM
+S5657324L	Neo Whittle	neo.2015@smu.edu.sg	88.47	DD	BSEcons
+G6484747I	Joseff Forster	joseff.2014@smu.edu.sg	88.7	DD	BBM
+G8514050X	Aneesah Goldsmith	aneesah.2017@smu.edu.sg	89		BBM
+G4298528Y	Ben Plummer	ben.2014@smu.edu.sg	89.04		BBM
+G3980806F	Abel Nash	abel.2014@smu.edu.sg	89.2	SM	BAcc
+G9572148S	Divine Humphries	divine.2017@smu.edu.sg	89.47		BSIS
+G7144489T	Whitney Wade	whitney.2014@smu.edu.sg	89.7	SM	BSEcons
+S3568612S	Kalem Bains	kalem.2014@smu.edu.sg	89.75		BSIS
+G2458661X	Farhaan Coombes	farhaan.2017@smu.edu.sg	89.81		BL
+S3380967A	Garfield Clark	garfield.2016@smu.edu.sg	89.85	SM	BSS
+S1369181L	Khadeeja Allison	khadeeja.2014@smu.edu.sg	89.89	SM	BSIS
+S3838234K	Callan Pace	callan.2014@smu.edu.sg	90.19		BAcc
+G6569470C	Lucie Rahman	lucie.2014@smu.edu.sg	90.61	SM	BAcc
+S6741495J	Tahir Pena	tahir.2016@smu.edu.sg	90.63		BSS
+S4156424Y	Shaquille Combs	shaquille.2014@smu.edu.sg	90.77		BAcc
+G8422310L	Aizah Palacios	aizah.2014@smu.edu.sg	90.85		BL
+G6401494M	Shana Garrett	shana.2014@smu.edu.sg	90.97		BBM
+S3950875D	Connar Hopkins	connar.2014@smu.edu.sg	90.98	SM	BL
+S3579007B	Edan Carroll	edan.2015@smu.edu.sg	91.04	DD	BBM
+S7752422U	Melody Jenkins	melody.2017@smu.edu.sg	91.04		BBM
+S4083476L	Khalid Knight	khalid.2016@smu.edu.sg	91.47	DD	BL
+S9547045P	Doris Hilton	doris.2016@smu.edu.sg	91.61	SM	BSIS
+G2636463J	Serenity Leonard	serenity.2014@smu.edu.sg	91.64	SM	BSIS
+S4467908U	Eve Cope	eve.2014@smu.edu.sg	91.7		BL
+G9765771N	Kiah Milne	kiah.2015@smu.edu.sg	91.88		BL
+S1447420O	Boyd Sweeney	boyd.2015@smu.edu.sg	92.26		BL
+G6471597T	Amelia-Lily Jarvis	amelia-lily.2016@smu.edu.sg	120	DD	BSEcons
+S6253444X	Kaeden Walters	kaeden.2015@smu.edu.sg	92.66		BAcc
+G8416963O	Mahnoor Tapia	mahnoor.2017@smu.edu.sg	92.67	SM	BSIS
+G7276494R	Samir Parkes	samir.2016@smu.edu.sg	92.94	SM	BSS
+S4843889P	Kwame Marsh	kwame.2014@smu.edu.sg	93.1		BBM
+G6759292P	Eesha Alfaro	eesha.2014@smu.edu.sg	93.13	SM	BSEcons
+G4856411Y	Lubna East	lubna.2014@smu.edu.sg	93.29	SM	BAcc
+S1500041F	Cairon Lynch	cairon.2014@smu.edu.sg	93.41	SM	BSEcons
+S6940925Y	Jody Zhang	jody.2014@smu.edu.sg	93.98	DD	BL
+S3520408Q	Muhammed Dennis	muhammed.2014@smu.edu.sg	94.03		BSS
+G9835849V	Katie Hunt	katie.2015@smu.edu.sg	94.37	SM	BBM
+G3790687V	Josiah Molina	josiah.2016@smu.edu.sg	94.52	SM	BSIS
+S4003648N	Jawad Donnelly	jawad.2016@smu.edu.sg	94.82	DD	BSEcons
+S9178867R	Arya Morris	arya.2016@smu.edu.sg	95	DD	BSCS
+G5467534J	Kate Parker	kate.2017@smu.edu.sg	95		BSCS
+S8645623G	Medwin Jetson	medwin.2016@smu.edu.sg	95		BSCS
+S8956432K	Aston Duke	aston.2017@smu.edu.sg	95		BSCS
+S9078645B	Kenston Seymour	kenston.2017@smu.edu.sg	95		BSCS
+S1795188Y	Jimmy Huffman	jimmy.2017@smu.edu.sg	95.32	DD	BBM
+G9776365W	Tasnia Randolph	tasnia.2017@smu.edu.sg	95.38		BSIS
+S7343332B	Asim Peterson	asim.2014@smu.edu.sg	95.48		BAcc
+S9545643Y	Calla Ransom	calla.2017@smu.edu.sg	95.5	SM	BSCS
+G6317530X	Krzysztof Zuniga	krzysztof.2014@smu.edu.sg	95.51	SM	BSEcons
+G2323678H	Kelvin Pam	kelvin.2016@smu.edu.sg	95.75		BSCS
+S9067475L	Haley Thyme	haley.2016@smu.edu.sg	95.75		BSCS
+G2521727Y	Arlene Rigby	arlene.2017@smu.edu.sg	95.8		BL
+G8941270Y	Aayan Wainwright	aayan.2014@smu.edu.sg	95.87		BBM
+S4532432F	Irwin Dyson	irwin.2017@smu.edu.sg	95.98		BSCS
+S5584247G	Rayhaan Johns	rayhaan.2017@smu.edu.sg	96.04	SM	BSS
+S5872250I	Sacha Acosta	sacha.2016@smu.edu.sg	96.18		BBM
+S6769387Q	Sofia Mccray	sofia.2017@smu.edu.sg	96.31		BBM
+G4935813M	Fraser Harmon	fraser.2016@smu.edu.sg	96.36		BSS
+G9946804Z	Eamonn Howell	eamonn.2015@smu.edu.sg	96.5		BSIS
+S2734678X	Monique Rollins	monique.2014@smu.edu.sg	96.67	DD	BL
+G4840111V	Lamar Houston	lamar.2015@smu.edu.sg	96.98	SM	BAcc
+G7852154D	Charli Jacobson	charli.2017@smu.edu.sg	97.02		BSIS
+S9939688B	Freddie Hopkins	freddie.2016@smu.edu.sg	97.1	SM	BAcc
+G5762926S	Aubrey Cohen	aubrey.2015@smu.edu.sg	97.11	SM	BSEcons
+G3902460M	Eli Adams	eli.2017@smu.edu.sg	97.12		BSIS
+S9773487T	Macsen Swan	macsen.2014@smu.edu.sg	97.33	SM	BSEcons
+G7487119O	Piers Boyle	piers.2017@smu.edu.sg	97.35		BBM
+G9330585K	Shelly Dodson	shelly.2015@smu.edu.sg	97.4	SM	BSIS
+G3505627W	Marina Mayer	marina.2014@smu.edu.sg	97.42	SM	BSS
+G1808114D	Jordana Holloway	jordana.2014@smu.edu.sg	97.46	SM	BAcc
+S3028246V	Aurelia Franco	aurelia.2014@smu.edu.sg	97.48		BSEcons
+G1585252W	Madeline Hess	madeline.2016@smu.edu.sg	97.52		BL
+S1288007Q	Nelly Sheldon	nelly.2014@smu.edu.sg	97.52	SM	BAcc
+S9364404F	Yvie Moran	yvie.2016@smu.edu.sg	97.59	SM	BBM
+S2272453R	Sannah Mejia	sannah.2015@smu.edu.sg	97.66		BL
+S5673542W	Amos Frederick	amos.2014@smu.edu.sg	97.94		BSIS
+S4649446I	Millie-Rose Delgado	millie-rose.2017@smu.edu.sg	98.04	SM	BSS
+S9098697Q	Amiya Rush	amiya.2017@smu.edu.sg	98.18		BSIS
+S5338640F	Yasser Lawson	yasser.2014@smu.edu.sg	98.53	SM	BL
+S8928772L	Kamile Stewart	kamile.2017@smu.edu.sg	200	DD	BSIS
+G9155063Y	Greg Wilcox	greg.2016@smu.edu.sg	98.65		BSS
+S5230433A	Kirsten Woods	kirsten.2014@smu.edu.sg	98.71		BSIS
+G1962791I	Hester Simons	hester.2014@smu.edu.sg	98.97	DD	BL
+G5348690U	Shoaib Jimenez	shoaib.2014@smu.edu.sg	99.14	SM	BAcc
+G3244660K	Freddy Koch	freddy.2014@smu.edu.sg	99.19	SM	BAcc
+G8659372Q	John-James Rosales	john-james.2015@smu.edu.sg	99.56	DD	BSEcons
+S7249566D	Olli Mcgowan	olli.2014@smu.edu.sg	99.62		BBM
+G5102908G	Shay Colley	shay.2014@smu.edu.sg	99.76		BSEcons
+S4981550D	Olivia-Grace Stott	olivia-grace.2016@smu.edu.sg	100.1		BSIS
+G5188241E	Maison Hines	maison.2014@smu.edu.sg	100.16		BSEcons
+S9519676X	Zeeshan Goodman	zeeshan.2016@smu.edu.sg	100.18	DD	BSIS
+S8875214W	Musab Vang	musab.2014@smu.edu.sg	100.24	SM	BL
+G2350268E	Ember Lozano	ember.2014@smu.edu.sg	100.24	SM	BL
+G3838766Z	Sanaa Lindsay	sanaa.2016@smu.edu.sg	100.58		BL
+G2805880R	Kasey Rivers	kasey.2014@smu.edu.sg	100.6		BL
+S9696293P	Alishba Parry	alishba.2014@smu.edu.sg	100.61		BAcc
+G8328725F	Hadley Mccarty	hadley.2015@smu.edu.sg	100.67	SM	BAcc
+S4550100T	Callam Weeks	callam.2016@smu.edu.sg	100.85	SM	BSS
+S2486876C	Tashan Allen	tashan.2015@smu.edu.sg	100.88		BAcc
+G4831931Q	Eve Payne	eve.2017@smu.edu.sg	101.58		BSEcons
+G7812050O	Terri Lawson	terri.2015@smu.edu.sg	101.72	SM	BSS
+S5629158I	Caitlyn Seymour	caitlyn.2014@smu.edu.sg	102.05	SM	BSEcons
+S2922540Q	Rico Whiteley	rico.2017@smu.edu.sg	102.35	SM	BBM
+S5037555B	Jaskaran Hooper	jaskaran.2014@smu.edu.sg	102.36		BL
+S8722061T	Clare Travers	clare.2014@smu.edu.sg	102.42	SM	BSS
+S8348737L	Molly Ryan	molly.2016@smu.edu.sg	102.43		BSIS
+S6102401N	Lauryn O'Gallagher	lauryn.2015@smu.edu.sg	102.63	DD	BSS
+G1126662B	Pamela Espinoza	pamela.2016@smu.edu.sg	102.74	SM	BSEcons
+G4833723Q	Rajan Alvarado	rajan.2016@smu.edu.sg	103.05	SM	BAcc
+G6998244V	Taliah Field	taliah.2017@smu.edu.sg	103.4	SM	BAcc
+G3207118A	Rivka Hodges	rivka.2014@smu.edu.sg	103.4	DD	BSS
+G3676531B	Agata Chapman	agata.2014@smu.edu.sg	103.5	SM	BSEcons
+G1731494K	Asmaa Olsen	asmaa.2014@smu.edu.sg	103.68		BAcc
+G3671537E	Nikki Peacock	nikki.2016@smu.edu.sg	103.73		BBM
+S6134563W	Maddox Hayden	maddox.2017@smu.edu.sg	104.13	SM	BBM
+G3185421R	Idrees Butler	idrees.2014@smu.edu.sg	104.13		BSIS
+S3006347U	Nazifa Warren	nazifa.2016@smu.edu.sg	104.52	DD	BAcc
+G5563702L	Marcelina Ridley	marcelina.2015@smu.edu.sg	104.6		BAcc
+G5676456H	Anne Finch	anne.2017@smu.edu.sg	105		BSCS
+G8648990Z	Shanice Mcdowell	shanice.2016@smu.edu.sg	105.03		BSS
+G1729413D	Corrie Steele	corrie.2015@smu.edu.sg	105.19	SM	BSS
+S5980235F	Bill Moore	bill.2015@smu.edu.sg	150	DD	BSIS
+G6508415U	Maaria Steadman	maaria.2016@smu.edu.sg	105.41		BBM
+G1137006D	Barnaby Hamilton	barnaby.2015@smu.edu.sg	150	DD	BBM
+S9123123G	Garwin Drover	garwin.2016@smu.edu.sg	106		BSCS
+G5537802C	Calvin Pham	calvin.2014@smu.edu.sg	106.58	DD	BAcc
+G9099284H	Abida Rahman	abida.2015@smu.edu.sg	106.59		BAcc
+S5779711E	Christine Coles	christine.2014@smu.edu.sg	106.67	SM	BSS
+G9634313O	Harper Davenport	harper.2014@smu.edu.sg	106.87		BL
+G8664220K	Carlos Macleod	carlos.2014@smu.edu.sg	106.89		BBM
+S3257628K	Natasha Ali	natasha.2014@smu.edu.sg	107.03		BBM
+S2172950D	Cydney Joseph	cydney.2014@smu.edu.sg	107.22	DD	BSEcons
+S9512019B	Lucille Wolfe	lucille.2014@smu.edu.sg	107.47	DD	BAcc
+S1959876Y	Kieran Kavanagh	kieran.2015@smu.edu.sg	107.49		BSIS
+S9076577P	Alex Hall	alex.2016@smu.edu.sg	107.5		BSCS
+G4427808K	Conrad Burn	conrad.2014@smu.edu.sg	107.54	SM	BSEcons
+S7994946T	Ellena Davila	ellena.2014@smu.edu.sg	107.64		BL
+S9973403Z	Jordyn Gonzalez	jordyn.2014@smu.edu.sg	108.34		BL
+G6546878H	Teddy Stubbs	teddy.2014@smu.edu.sg	108.37	SM	BSEcons
+G7295342P	Warren Maguire	warren.2014@smu.edu.sg	108.4		BAcc
+S9863137H	Kiaan Lowe	kiaan.2016@smu.edu.sg	108.47	SM	BL
+G6408022P	Bella-Rose Finney	bella-rose.2015@smu.edu.sg	108.66		BSIS
+S5156416H	Johnnie Fuller	johnnie.2014@smu.edu.sg	108.75	DD	BSEcons
+G4567830O	Aden Whitworth	aden.2014@smu.edu.sg	109.21		BSS
+S1574436O	Damien Sykes	damien.2016@smu.edu.sg	109.3		BL
+S5535497V	Kaisha Estrada	kaisha.2015@smu.edu.sg	109.46	SM	BAcc
+S9555630K	Alicia Gallegos	alicia.2014@smu.edu.sg	109.87	SM	BSEcons
+S6553234E	Manoj Jeffrey	manoj.2016@smu.edu.sg	110		BSCS
+G8929182Q	Akeel Christie	akeel.2017@smu.edu.sg	110.07	DD	BSS
+G2419909N	Brodie Mercado	brodie.2016@smu.edu.sg	110.09	DD	BSIS
+G3847770D	Nile Arias	nile.2014@smu.edu.sg	110.68		BL
+S6372376C	Ezekiel Hawes	ezekiel.2014@smu.edu.sg	110.95	DD	BSEcons
+S3606686O	Hanna Hendricks	hanna.2014@smu.edu.sg	110.99		BSS
+S8235578R	Ethan Anderson	ethan.2016@smu.edu.sg	111.07		BAcc
+G1303063Y	May Wallace	may.2014@smu.edu.sg	111.09		BAcc
+S8884010H	Bevan Shields	bevan.2016@smu.edu.sg	111.37		BAcc
+G6352685V	Carla Tate	carla.2014@smu.edu.sg	111.65		BL
+S2898553W	Samirah Mccray	samirah.2014@smu.edu.sg	111.85	SM	BSEcons
+G4040154Z	Letitia Whitehead	letitia.2017@smu.edu.sg	112.05	SM	BSEcons
+S9654347M	Kasper Carey	kasper.2017@smu.edu.sg	112.18	SM	BSEcons
+G4697305S	Sabiha Enriquez	sabiha.2017@smu.edu.sg	112.38	SM	BSEcons
+G1529605I	Roan Mckenzie	roan.2014@smu.edu.sg	112.41		BL
+G7277053N	Kia Galindo	kia.2015@smu.edu.sg	112.65	SM	BAcc
+G8285556K	Denise Broadhurst	denise.2014@smu.edu.sg	112.85		BSIS
+G4516181I	Idrees Hoover	idrees.2014@smu.edu.sg	113.23	SM	BSEcons
+G3541304N	Nettie Salazar	nettie.2014@smu.edu.sg	113.34	SM	BAcc
+G6095900Q	Malak Mckenna	malak.2017@smu.edu.sg	113.47		BBM
+G7061659B	Mehreen Rodriquez	mehreen.2014@smu.edu.sg	113.58	SM	BAcc
+S2738013B	Jaxon Whyte	jaxon.2016@smu.edu.sg	113.66		BSS
+G6995330N	Aronas Woodward	aronas.2014@smu.edu.sg	113.67		BL
+G4603632Q	Ailish Duran	ailish.2017@smu.edu.sg	114.13	DD	BL
+S2450758T	Dominika Lamb	dominika.2017@smu.edu.sg	114.27		BSIS
+G1502816S	Orlaith Hayes	orlaith.2014@smu.edu.sg	114.39	SM	BSEcons
+S2109129O	Ishaaq Marin	ishaaq.2014@smu.edu.sg	114.53	SM	BAcc
+G6688182A	Catrin Villarreal	catrin.2017@smu.edu.sg	114.63		BL
+S8737858U	Sky Frame	sky.2014@smu.edu.sg	114.72		BL
+G8077726Q	Ashlea Howells	ashlea.2017@smu.edu.sg	114.72	SM	BAcc
+S7600501M	Chloe Atkinson	chloe.2014@smu.edu.sg	114.74		BL
+G1212345Y	Alvin Fairfax	alvin.2017@smu.edu.sg	115		BSCS
+S8678555G	Baxter Randa	baxter.2017@smu.edu.sg	115		BSCS
+G5689765Y	Kim Sherwood	kim.2017@smu.edu.sg	115		BSCS
+S5391576M	Rianna Bruce	rianna.2014@smu.edu.sg	115.01		BSS
+G3602269I	Charmaine Vance	charmaine.2015@smu.edu.sg	115.23		BAcc
+G6279170Y	Chanice James	chanice.2014@smu.edu.sg	115.42		BSS
+S6756543H	Joshua Earl	joshua.2016@smu.edu.sg	115.5		BSCS
+S9556677G	Addy Faye	addy.2017@smu.edu.sg	115.5	DD	BSCS
+S6730354A	Lawrence Molloy	lawrence.2017@smu.edu.sg	115.55		BSIS
+S3257726R	Eve Graves	eve.2016@smu.edu.sg	190	DD	BSEcons
+G7417278H	Ridwan Horton	ridwan.2017@smu.edu.sg	115.89		BAcc
+S5211425S	Nadir Reyna	nadir.2016@smu.edu.sg	115.93		BL
+G7591832M	Ruby-Mae Oneil	ruby-mae.2017@smu.edu.sg	116.32		BSS
+G6070246T	Chanice Buchanan	chanice.2017@smu.edu.sg	116.39	SM	BAcc
+S7836281A	Hugh Beck	hugh.2014@smu.edu.sg	116.69		BSEcons
+G8378067Q	Maxwell Sykes	maxwell.2016@smu.edu.sg	116.73	DD	BBM
+G8001077L	Jamie-Lee Randall	jamie-lee.2014@smu.edu.sg	116.78	DD	BSEcons
+G5353294D	Breanna Franks	breanna.2015@smu.edu.sg	116.81		BBM
+G7725115U	Elsie-May Allen	elsie-may.2016@smu.edu.sg	117.28		BBM
+S9077885U	Daniel Long	daniel.2016@smu.edu.sg	117.6	DD	BSCS
+G1781606A	Judy Sims	judy.2016@smu.edu.sg	117.61	SM	BAcc
+S8450770F	Zachariah Armitage	zachariah.2015@smu.edu.sg	118.53	DD	BSEcons
+S7832410A	Amaan Hodgson	amaan.2016@smu.edu.sg	118.77		BSIS
+S1906117S	Sahara Velez	sahara.2016@smu.edu.sg	118.93	SM	BAcc
+S3765819D	Donald Simmonds	donald.2014@smu.edu.sg	119.04	SM	BSEcons
+S4227810F	Anand Alvarez	anand.2015@smu.edu.sg	119.11		BL
+G8308907M	Ahsan Mclaughlin	ahsan.2016@smu.edu.sg	119.59	SM	BSIS
+G4000649P	Kirk Landry	kirk.2016@smu.edu.sg	119.84		BBM
+S7723092G	Kloe Dudley	kloe.2014@smu.edu.sg	119.94	DD	BAcc
+G3645342U	Jane Palin	jane.2017@smu.edu.sg	120	SM	BSCS
+G5909842R	Karla Underwood	karla.2014@smu.edu.sg	120.22	SM	BSEcons
+G2565720P	Eloisa Morales	eloisa.2014@smu.edu.sg	121.15		BBM
+S1722994L	Patrycja Mackenzie	patrycja.2017@smu.edu.sg	121.42		BBM
+S9500432P	Zane Partridge	zane.2014@smu.edu.sg	121.5	SM	BSEcons
+G7631638J	Rikki Fenton	rikki.2014@smu.edu.sg	121.51		BBM
+G5680887C	Neil Weaver	neil.2015@smu.edu.sg	121.65		BSIS
+G2429186Y	Jenson Torres	jenson.2017@smu.edu.sg	121.7	DD	BSS
+S7262445C	Archie Mcnamara	archie.2017@smu.edu.sg	121.71		BL
+G7606895B	Efa Lyon	efa.2014@smu.edu.sg	121.87		BBM
+G8606457L	Tiana Fernandez	tiana.2014@smu.edu.sg	121.89	SM	BSIS
+S5237478I	Jevon Sanderson	jevon.2014@smu.edu.sg	122.17	DD	BBM
+S4105423I	Priyanka Horner	priyanka.2015@smu.edu.sg	122.23	SM	BAcc
+G1471709X	Arisha Howe	arisha.2016@smu.edu.sg	122.54	SM	BAcc
+G3601136F	Malik Bloggs	malik.2017@smu.edu.sg	122.54	SM	BSEcons
+S8211910R	Tre Bentley	tre.2015@smu.edu.sg	122.91		BSEcons
+G7275239E	Samiyah Clements	samiyah.2015@smu.edu.sg	123.05	SM	BSEcons
+G8091387F	Blythe Bray	blythe.2016@smu.edu.sg	123.21	SM	BBM
+G9460735W	Muskaan Mcgill	muskaan.2014@smu.edu.sg	123.23		BL
+G1286472C	Millicent Brook	millicent.2016@smu.edu.sg	123.47	SM	BBM
+S1672593J	Caris Vickers	caris.2015@smu.edu.sg	123.53		BSEcons
+G5470782G	Neelam Shea	neelam.2015@smu.edu.sg	123.75		BL
+G2254190C	Vanesa Dodd	vanesa.2015@smu.edu.sg	123.97		BL
+G1710841A	Mccauley Benson	mccauley.2016@smu.edu.sg	124.13		BSEcons
+G3165721H	Daria Cohen	daria.2017@smu.edu.sg	124.77	SM	BSIS
+G6124957P	Ifan Woodley	ifan.2014@smu.edu.sg	124.78		BAcc
+S6385490C	Deanne Krueger	deanne.2014@smu.edu.sg	124.8		BL
+G4198171R	Annabel Whiteley	annabel.2014@smu.edu.sg	124.94	SM	BSEcons
+S8356989D	Barden Langley	barden.2017@smu.edu.sg	125	DD	BSCS
+G7867543H	Faith Reid	faith.2017@smu.edu.sg	125	SM	BSCS
+G5487681H	Lawson Sheldon	lawson.2017@smu.edu.sg	125		BSCS
+S9367636B	Theresa Mosley	theresa.2015@smu.edu.sg	125.02	DD	BAcc
+G4550955F	Thea Hawkins	thea.2014@smu.edu.sg	125.12		BL
+S8329755B	Kirsten Bolton	kirsten.2015@smu.edu.sg	125.17	SM	BSEcons
+G8457555Y	Krystian Almond	krystian.2014@smu.edu.sg	125.28	DD	BL
+G1670608F	Micah Storey	micah.2017@smu.edu.sg	125.39	SM	BSEcons
+S8175247K	Dania Nicholls	dania.2017@smu.edu.sg	125.64		BSEcons
+S4076071F	Daria Sweeney	daria.2014@smu.edu.sg	125.72	DD	BSS
+S9076567R	Finch Ralph	finch.2016@smu.edu.sg	125.85		BSCS
+G1463742N	Mollie Murillo	mollie.2016@smu.edu.sg	125.99	DD	BAcc
+G4783116V	Aniya Cunningham	aniya.2015@smu.edu.sg	126	SM	BAcc
+S9065467H	Krupa Seldon	krupa.2016@smu.edu.sg	126	DD	BSCS
+G3422369W	Anil Oneal	anil.2014@smu.edu.sg	126.05	SM	BAcc
+G6465714E	Maysa Doherty	maysa.2017@smu.edu.sg	126.07		BL
+G3293825J	Azaan Peacock	azaan.2014@smu.edu.sg	126.09		BAcc
+S9776655I	Francis Rees	francis.2016@smu.edu.sg	126.14		BSIS
+S8028529L	Terence Alvarez	terence.2014@smu.edu.sg	126.79		BBM
+G6534572L	Lyla-Rose Collier	lyla-rose.2017@smu.edu.sg	127.08		BBM
+S4833255V	Tayyibah Browning	tayyibah.2014@smu.edu.sg	127.16	SM	BBM
+S5792429Z	Corey Valencia	corey.2014@smu.edu.sg	127.49		BSIS
+S4218712F	Umair Hurst	umair.2014@smu.edu.sg	127.9		BAcc
+S9045453J	Brian Baker	brian.2016@smu.edu.sg	128		BSCS
+G4545323B	Hadi Dodson	hadi.2017@smu.edu.sg	128		BSCS
+G8400241C	Flora Burton	flora.2015@smu.edu.sg	128.11		BAcc
+G4764822I	Kristopher Diaz	kristopher.2014@smu.edu.sg	128.43		BSS
+S2384155R	Sumaiya Carlson	sumaiya.2016@smu.edu.sg	128.5	SM	BSIS
+G5643267H	Jaxon Trent	jaxon.2016@smu.edu.sg	128.5	SM	BSCS
+G8360571P	Marguerite Alfaro	marguerite.2014@smu.edu.sg	128.64	DD	BL
+S2918100D	Leo Mcculloch	leo.2016@smu.edu.sg	128.7		BSS
+S2739905Y	Beck Shelton	beck.2014@smu.edu.sg	129.32		BSS
+G1959665Z	Kirby Mann	kirby.2015@smu.edu.sg	129.43		BSIS
+G9479284O	Kayden Hodge	kayden.2016@smu.edu.sg	129.57		BSS
+G1184160B	Stefan Beltran	stefan.2014@smu.edu.sg	129.73		BL
+S8201326R	Efe Davey	efe.2014@smu.edu.sg	129.76	SM	BSS
+G5968892H	Giovanni Powell	giovanni.2015@smu.edu.sg	129.77		BL
+S1912868B	Eesa Sanchez	eesa.2015@smu.edu.sg	129.95	SM	BSS
+G5347061I	Casey Kemp	casey.2016@smu.edu.sg	129.96		BSIS
+S9167678R	Elisa Langley	elisa.2016@smu.edu.sg	130		BSCS
+S5656432J	Krsiten Joan	krsiten.2017@smu.edu.sg	130		BSCS
+S6372259K	Crystal Foster	crystal.2016@smu.edu.sg	130.6	DD	BSEcons
+G5540533Z	Tomasz Summers	tomasz.2014@smu.edu.sg	130.79	SM	BSS
+G7618562Q	Huseyin Jeffery	huseyin.2014@smu.edu.sg	130.93	SM	BSS
+S9068054P	Tara Cantu	tara.2017@smu.edu.sg	131.59	SM	BSEcons
+S4581547X	Eliot Caldwell	eliot.2016@smu.edu.sg	180	DD	BSIS
+G2833242X	Iyla Travis	iyla.2016@smu.edu.sg	132.19	SM	BSIS
+S3318386E	Ritik Butler	ritik.2017@smu.edu.sg	132.21		BL
+S4296529A	Billy Acevedo	billy.2015@smu.edu.sg	132.78	SM	BSEcons
+S4080242Z	Iwan Richardson	iwan.2014@smu.edu.sg	133.1		BSS
+S1586916R	Nuha Medrano	nuha.2014@smu.edu.sg	133.5		BBM
+S4328342D	Skye Russo	skye.2017@smu.edu.sg	133.61		BAcc
+S6769869L	Quinn Mcdonald	quinn.2017@smu.edu.sg	133.63		BBM
+S5513291R	Bethan Power	bethan.2017@smu.edu.sg	133.92	SM	BAcc
+S7716548W	Madeline Pearce	madeline.2014@smu.edu.sg	133.94	SM	BSEcons
+S4299790P	Nida Leon	nida.2017@smu.edu.sg	134.09		BSIS
+S5950391V	Ocean Mata	ocean.2015@smu.edu.sg	134.22		BSS
+G9539996F	Sinead Bevan	sinead.2014@smu.edu.sg	134.26	DD	BAcc
+S3333547L	Tymoteusz Cottrell	tymoteusz.2016@smu.edu.sg	134.4		BSS
+G6446445C	Burhan Mullins	burhan.2016@smu.edu.sg	134.44		BAcc
+G3905841B	Benny Meadows	benny.2014@smu.edu.sg	134.59	SM	BSEcons
+S7501350K	Ellie-Louise Brandt	ellie-louise.2015@smu.edu.sg	134.73		BL
+G9560141W	Roisin Roche	roisin.2016@smu.edu.sg	134.82	SM	BSEcons
+S8540065F	Omari Greer	omari.2016@smu.edu.sg	135.15		BSEcons
+G7391211D	Cassius Hirst	cassius.2017@smu.edu.sg	135.17	DD	BAcc
+G5265908X	Thierry Hibbert	thierry.2014@smu.edu.sg	135.43		BSIS
+S2261007X	Dainton Whiteley	dainton.2014@smu.edu.sg	135.75		BAcc
+S2806170M	Ralph Hastings	ralph.2017@smu.edu.sg	135.8		BL
+S3683638B	Jules Strickland	jules.2017@smu.edu.sg	135.93	DD	BBM
+G7460165B	Kaden Holloway	kaden.2017@smu.edu.sg	135.94		BSIS
+G2452138D	Myah Mullins	myah.2016@smu.edu.sg	136.02		BSS
+G9545088I	Isra Wagner	isra.2014@smu.edu.sg	136.04	SM	BAcc
+S8780615I	Whitney Dawson	whitney.2014@smu.edu.sg	136.32		BBM
+G4836182X	Enya Goddard	enya.2014@smu.edu.sg	136.36	DD	BL
+G2960795S	Amelia-Rose Stone	amelia-rose.2014@smu.edu.sg	136.73	SM	BSEcons
+G8477050C	Johnnie Stanton	johnnie.2017@smu.edu.sg	136.83	DD	BSEcons
+S6689896Y	Emile Charlton	emile.2014@smu.edu.sg	137.01		BSIS
+G7540483M	Jaylen Blake	jaylen.2016@smu.edu.sg	137.31		BBM
+S7996279P	Federico Mcbride	federico.2014@smu.edu.sg	137.82		BL
+S7344142W	Alanis Cherry	alanis.2014@smu.edu.sg	137.85		BSIS
+G5355873J	Mohammad Workman	mohammad.2016@smu.edu.sg	137.88	DD	BBM
+G5648996J	Kenton Whitney	kenton.2017@smu.edu.sg	138		BSCS
+S4463797G	Celyn Marin	celyn.2014@smu.edu.sg	138.17		BL
+S3169259O	Marianna Craig	marianna.2017@smu.edu.sg	138.38		BAcc
+G9269676O	Philippa Wooten	philippa.2014@smu.edu.sg	138.41	SM	BSEcons
+G1778577C	Mia-Rose Howard	mia-rose.2014@smu.edu.sg	138.41		BBM
+G6520352T	Tonicha Cairns	tonicha.2014@smu.edu.sg	138.52	DD	BSEcons
+G7209637I	Aleesha Townsend	aleesha.2017@smu.edu.sg	138.53		BBM
+G8299192S	Soraya Childs	soraya.2014@smu.edu.sg	138.55		BBM
+G5005469S	Eileen Bull	eileen.2014@smu.edu.sg	138.78	SM	BAcc
+G8213313R	Olli Kaye	olli.2014@smu.edu.sg	138.83		BAcc
+S2837130N	Jakob John	jakob.2014@smu.edu.sg	138.92	SM	BSEcons
+S7704510U	Franklin Almond	franklin.2017@smu.edu.sg	138.98		BBM
+G3517621G	Jett Mccarthy	jett.2014@smu.edu.sg	139.2	SM	BSEcons
+S5344542H	Jasleen Wilkes	jasleen.2017@smu.edu.sg	139.59	SM	BSIS
+G8691993K	Bert Austin	bert.2014@smu.edu.sg	139.63	DD	BSS
+G5687907H	Gifford Reed	gifford.2016@smu.edu.sg	140		BSCS
+S7873288J	Mildred Mccoy	mildred.2017@smu.edu.sg	140.06		BBM
+G8863636B	Fenella North	fenella.2014@smu.edu.sg	140.34		BSS
+S1907931P	Ava-May Fisher	ava-may.2016@smu.edu.sg	140.5	SM	BSEcons
+G2500490F	Cem Brett	cem.2014@smu.edu.sg	140.6		BSS
+S4471811K	Kaja Cotton	kaja.2014@smu.edu.sg	140.76		BBM
+G2480926K	Bethanie Soto	bethanie.2015@smu.edu.sg	140.81	SM	BAcc
+G9891706K	Tamsin Davie	tamsin.2017@smu.edu.sg	140.88	SM	BSEcons
+G3679981K	Celyn Roche	celyn.2014@smu.edu.sg	140.88		BBM
+G3648943Y	Pixie Francis	pixie.2014@smu.edu.sg	140.9		BAcc
+S4466659W	Rian Rogers	rian.2014@smu.edu.sg	141.23	SM	BAcc
+S8470345G	Francis Aldred	francis.2017@smu.edu.sg	141.57		BL
+G1181860O	Adem Conway	adem.2015@smu.edu.sg	141.63		BBM
+S8715289A	Yvonne Simpson	yvonne.2014@smu.edu.sg	141.82		BSS
+S3750192X	Loki Parra	loki.2016@smu.edu.sg	141.87		BSS
+S4805882X	Tyler-James Doyle	tyler-james.2016@smu.edu.sg	142.22		BSS
+G3259194S	Gruffydd Greaves	gruffydd.2015@smu.edu.sg	142.45	SM	BSIS
+G9166347G	Gina Daugherty	gina.2017@smu.edu.sg	142.58	SM	BSEcons
+G4520929J	Ellesse Lake	ellesse.2016@smu.edu.sg	142.84	DD	BL
+G6855744R	Glenda Arroyo	glenda.2017@smu.edu.sg	143	SM	BSIS
+G5690093P	Keisha Mcclain	keisha.2016@smu.edu.sg	143.16		BAcc
+G9053007Q	Wilson Simmonds	wilson.2014@smu.edu.sg	143.16		BSIS
+G2177987L	Aiza Miller	aiza.2014@smu.edu.sg	143.29		BBM
+G2113973N	Cohan Bull	cohan.2014@smu.edu.sg	143.37		BSS
+S8374090Y	Riley-Jay Woodcock	riley-jay.2016@smu.edu.sg	143.77		BAcc
+S1452808T	Ines Mcclure	ines.2017@smu.edu.sg	143.95		BSS
+G2269103Z	Umayr Frame	umayr.2014@smu.edu.sg	144.35		BSIS
+G5276174Z	Caitlyn Hanson	caitlyn.2017@smu.edu.sg	144.46	SM	BSS
+S9077869Y	Erwin Lawson	erwin.2017@smu.edu.sg	145		BSCS
+S9156666R	Kendall Winnie	kendall.2017@smu.edu.sg	145		BSCS
+G4564963T	Lanford Miller	lanford.2017@smu.edu.sg	145		BSCS
+G7359118X	Indiana Iles	indiana.2017@smu.edu.sg	145.04	DD	BAcc
+S2304139R	Rueben Haynes	rueben.2014@smu.edu.sg	145.33	DD	BAcc
+S6994365C	Kacper Alston	kacper.2014@smu.edu.sg	145.33	DD	BBM
+G2945877V	Fahim Puckett	fahim.2017@smu.edu.sg	145.41		BL
+S8567509F	Waleed Mills	waleed.2015@smu.edu.sg	145.84	DD	BAcc
+S5886592Y	Hattie Webber	hattie.2014@smu.edu.sg	146.37	DD	BAcc
+G7469456I	Isabella Field	isabella.2016@smu.edu.sg	146.52	SM	BSEcons
+G4699673D	Rhianne Bender	rhianne.2014@smu.edu.sg	146.7	SM	BSS
+S2187621G	Eva-Rose Carrillo	eva-rose.2014@smu.edu.sg	146.9	DD	BSS
+G1233432R	Faiz Guevara	faiz.2016@smu.edu.sg	146.98	SM	BAcc
+G9234733E	Zoya Morales	zoya.2014@smu.edu.sg	147.19	DD	BSEcons
+S5642922S	Rubie Munoz	rubie.2015@smu.edu.sg	147.41	SM	BBM
+S7724305R	Ianis Rios	ianis.2015@smu.edu.sg	147.95		BSIS
+S2723873P	Haydn Mcfarlane	haydn.2017@smu.edu.sg	147.96		BL
+S2747618Q	Sahar Curtis	sahar.2015@smu.edu.sg	147.97		BBM
+S9234476H	Cathy Long	cathy.2017@smu.edu.sg	148		BSCS
+S8954347B	Ginger Sidney	ginger.2016@smu.edu.sg	148		BSCS
+S2715297F	Maximillian Barr	maximillian.2016@smu.edu.sg	148.09	SM	BSIS
+G5384613H	Vikki Haynes	vikki.2016@smu.edu.sg	148.18		BSS
+S9824143T	Mahamed Flynn	mahamed.2016@smu.edu.sg	148.23		BAcc
+S9876756B	Bryan Rebel	bryan.2017@smu.edu.sg	148.5		BSCS
+S9441801X	Maverick Schroeder	maverick.2016@smu.edu.sg	148.71		BSIS
+S8204655L	Viola West	viola.2016@smu.edu.sg	148.79	SM	BSEcons
+G2164855Y	Isra Roach	isra.2017@smu.edu.sg	148.9	SM	BL
+G2915512K	Ocean Hardin	ocean.2016@smu.edu.sg	149.33		BSIS
+G9842104J	Chester Hurst	chester.2016@smu.edu.sg	149.69	DD	BSIS
+S8276899A	Everett Li	everett.2015@smu.edu.sg	149.78	DD	BL
+G8011985T	Tamanna Munoz	tamanna.2016@smu.edu.sg	149.96		BBM
+S7746026F	Liberty Hernandez	liberty.2014@smu.edu.sg	149.97	SM	BAcc
+S9189863G	Jazz Woodrow	jazz.2016@smu.edu.sg	150		BSCS
+G5956661V	Ksawery Haley	ksawery.2015@smu.edu.sg	150.02		BL
+S8465365K	Kayden Felix	kayden.2017@smu.edu.sg	150.05	SM	BSS
+G2490164E	Hakim Woodley	hakim.2016@smu.edu.sg	150.08		BSS
+G2660016K	Lilly-Mai Byers	lilly-mai.2014@smu.edu.sg	150.33		BBM
+G6946647I	Berat Hayes	berat.2014@smu.edu.sg	150.57		BSS
+S1524184E	Gavin Hough	gavin.2014@smu.edu.sg	150.65	SM	BAcc
+G6744977T	Miguel Bourne	miguel.2017@smu.edu.sg	150.77		BBM
+G3388578Z	Kie Mullen	kie.2015@smu.edu.sg	151.22	SM	BSS
+S4831788E	Aston Rodriquez	aston.2014@smu.edu.sg	151.23	SM	BSEcons
+S1960109X	Sean Strong	sean.2017@smu.edu.sg	151.62		BAcc
+S2011492I	Mariella Goulding	mariella.2014@smu.edu.sg	151.71		BBM
+S1819391M	Naveed Parra	naveed.2015@smu.edu.sg	151.89	DD	BSEcons
+G2562108P	Corben Cairns	corben.2014@smu.edu.sg	152.38	DD	BSS
+S3257245V	Gertrude Walls	gertrude.2017@smu.edu.sg	152.62		BL
+G3232499C	Hanan Lara	hanan.2017@smu.edu.sg	152.65		BL
+S5902347E	Rumaysa Fitzgerald	rumaysa.2016@smu.edu.sg	152.67	SM	BAcc
+G7673788X	Tiegan Campbell	tiegan.2014@smu.edu.sg	152.82		BL
+S8973808O	Inigo Bartlett	inigo.2016@smu.edu.sg	152.98		BSS
+S3162317J	Kareem Rubio	kareem.2015@smu.edu.sg	153.04		BSS
+G9066803G	Paula Tang	paula.2014@smu.edu.sg	153.17		BBM
+S8311184T	Aayat Hodgson	aayat.2014@smu.edu.sg	240	DD	BSS
+G5119957K	Elmer Werner	elmer.2017@smu.edu.sg	153.34	DD	BBM
+S6040114U	Sumaya Good	sumaya.2015@smu.edu.sg	153.52		BL
+S3943836N	Uzair Macdonald	uzair.2016@smu.edu.sg	153.54	SM	BAcc
+G6592376K	Kate Seymour	kate.2015@smu.edu.sg	153.66	SM	BSS
+S1973246T	Tracey Wu	tracey.2017@smu.edu.sg	154.44		BSIS
+S3756316S	Michelle Huynh	michelle.2016@smu.edu.sg	154.59	SM	BAcc
+G4938111H	Arham Rocha	arham.2015@smu.edu.sg	155.24	SM	BBM
+G3215423M	Rees Hamer	rees.2017@smu.edu.sg	155.24	SM	BBM
+S3490621U	Lara Pacheco	lara.2014@smu.edu.sg	250	SM	BL
+G3884598W	Reeva Hanson	reeva.2014@smu.edu.sg	155.43	SM	BAcc
+G7614275P	Gene Rodrigues	gene.2014@smu.edu.sg	155.46		BSS
+S9677868X	Salahuddin Allan	salahuddin.2014@smu.edu.sg	155.71	SM	BSEcons
+G3168532J	Ronan James	ronan.2014@smu.edu.sg	155.71	SM	BBM
+G2235557D	Axel Dodson	axel.2016@smu.edu.sg	156.17		BAcc
+S6324884H	Cassandra Quintero	cassandra.2016@smu.edu.sg	156.22		BSIS
+G9334910Z	Malcolm Holt	malcolm.2015@smu.edu.sg	156.43	SM	BSS
+S4969489L	Fabian Burn	fabian.2016@smu.edu.sg	156.66	SM	BSIS
+G7308220D	Jess Yu	jess.2016@smu.edu.sg	156.66		BSS
+S8635158X	Lacey-Mai Crossley	lacey-mai.2017@smu.edu.sg	156.67		BSS
+S7778953Y	Nakita Love	nakita.2014@smu.edu.sg	190	SM	BL
+G6090151T	Cherry Weston	cherry.2014@smu.edu.sg	157.4		BAcc
+S2507143F	Juniper Carlson	juniper.2014@smu.edu.sg	157.51		BAcc
+G5914491B	Milla Montgomery	milla.2014@smu.edu.sg	157.92	SM	BAcc
+S7302026A	Marsha Atherton	marsha.2016@smu.edu.sg	158.47		BBM
+G6446910D	Liana Tait	liana.2014@smu.edu.sg	158.75	SM	BSEcons
+G1425711H	Ubaid Wormald	ubaid.2015@smu.edu.sg	158.89		BSIS
+S9017570X	Fahmida Mcfadden	fahmida.2014@smu.edu.sg	290	DD	BSIS
+G5596379X	Jared Porter	jared.2014@smu.edu.sg	159.06	DD	BAcc
+G8274424J	Paulina Hackett	paulina.2016@smu.edu.sg	159.2	SM	BL
+S8773487I	Dafydd Parra	dafydd.2016@smu.edu.sg	159.25	DD	BSIS
+G4207090J	Caris Odling	caris.2016@smu.edu.sg	159.45		BAcc
+G2062544D	Jakub Dupont	jakub.2017@smu.edu.sg	159.56	SM	BSEcons
+G3266145K	Niamh Knowles	niamh.2016@smu.edu.sg	159.89		BL
+S7363606X	Jenson Schultz	jenson.2016@smu.edu.sg	160.24	DD	BSIS
+S2795974C	Lennie Bob	lennie.2014@smu.edu.sg	160.39		BBM
+G8895116J	Flynn Spooner	flynn.2015@smu.edu.sg	77.88	DD	BAcc
+G5072658T	Connie Curran	connie.2017@smu.edu.sg	200	DD	BSEcons
+G3261009U	Adnaan Keller	adnaan.2017@smu.edu.sg	161.33	DD	BSS
+G1342512U	Isaac Bird	isaac.2015@smu.edu.sg	161.39		BSS
+G947898TJ	Catherine Flores	catherine.2017@smu.edu.sg	162	SM	BSCS
+G2887064Y	Elspeth Lugo	elspeth.2014@smu.edu.sg	162.05		BL
+S5884439R	Shivam Peterson	shivam.2014@smu.edu.sg	162.16	SM	BSEcons
+G9568197E	Sian Thorne	sian.2017@smu.edu.sg	162.44		BBM
+G5995568X	Timothy Deleon	timothy.2017@smu.edu.sg	162.54	DD	BAcc
+S6071694F	Adelle Esparza	adelle.2014@smu.edu.sg	162.7	SM	BAcc
+S7535528S	Sylvie Rojas	sylvie.2014@smu.edu.sg	163.18		BBM
+G5737974Q	Ayra Odom	ayra.2016@smu.edu.sg	163.46	SM	BAcc
+S1171870D	Honor Corbett	honor.2017@smu.edu.sg	163.47	SM	BAcc
+S6677292K	Alejandro Carpenter	alejandro.2014@smu.edu.sg	163.5	DD	BSIS
+G7953899F	Fathima Villa	fathima.2014@smu.edu.sg	163.93	DD	BBM
+S6722777A	Byron Prosser	byron.2016@smu.edu.sg	200	DD	BBM
+S4611545K	Xanthe Salas	xanthe.2017@smu.edu.sg	164.5	SM	BSS
+G7853180H	Cassius Steele	cassius.2014@smu.edu.sg	164.67		BBM
+S1467134N	Iolo Bishop	iolo.2015@smu.edu.sg	164.71	DD	BSS
+S6129683O	Muhammad Leblanc	muhammad.2014@smu.edu.sg	164.89	DD	BAcc
+G1552624G	Cydney Hall	cydney.2017@smu.edu.sg	164.94		BAcc
+G8180893W	Aston Sawyer	aston.2016@smu.edu.sg	270	DD	BSIS
+S4880835F	Umer Pemberton	umer.2014@smu.edu.sg	165.38		BL
+G5252977C	Merryn Rodriguez	merryn.2017@smu.edu.sg	165.4		BBM
+G8028509V	Chloe-Ann Hunter	chloe-ann.2015@smu.edu.sg	165.41		BBM
+S5538436C	Sanjay Lancaster	sanjay.2014@smu.edu.sg	165.94	SM	BSS
+S7700462D	Zaki Bryan	zaki.2014@smu.edu.sg	166.2		BL
+S8178408S	Shelley Workman	shelley.2014@smu.edu.sg	166.28		BSIS
+S3102693F	Murtaza Mcleod	murtaza.2016@smu.edu.sg	166.35	SM	BSEcons
+S9304914L	Patricia Thorpe	patricia.2014@smu.edu.sg	166.48	DD	BSEcons
+G6579734V	Alaya Hickman	alaya.2014@smu.edu.sg	166.67		BL
+S6144774G	Felix Mckinney	felix.2014@smu.edu.sg	167.02	SM	BSIS
+G2047950A	Elsie Pace	elsie.2017@smu.edu.sg	167.23		BL
+S1714992N	Kunal Martin	kunal.2014@smu.edu.sg	167.24		BBM
+G2689289H	Fleur Head	fleur.2014@smu.edu.sg	167.29		BL
+G8417341R	Bobbi Elliott	bobbi.2014@smu.edu.sg	167.39	DD	BSS
+S3440961W	Ella-Mai Sweeney	ella-mai.2016@smu.edu.sg	167.4		BSS
+S5287815D	Cherish Prince	cherish.2014@smu.edu.sg	167.81	DD	BSS
+G8053732D	Ellie-May Charlton	ellie-may.2016@smu.edu.sg	167.86		BBM
+S1673200D	Jules Delaney	jules.2016@smu.edu.sg	167.98		BSS
+S3561314T	Asad Bauer	asad.2014@smu.edu.sg	167.98	SM	BSS
+G2411597J	Zidan Whittington	zidan.2014@smu.edu.sg	168.1		BL
+S3772133W	Brenna Horner	brenna.2014@smu.edu.sg	168.14	DD	BAcc
+S5837940S	Sumayyah Rodrigues	sumayyah.2014@smu.edu.sg	168.24	SM	BSEcons
+G3424178I	Beatriz Alexander	beatriz.2015@smu.edu.sg	168.66	SM	BSS
+S5976977Y	Rhianne Parks	rhianne.2017@smu.edu.sg	168.71	SM	BAcc
+G4983445C	Jarrod Stamp	jarrod.2014@smu.edu.sg	168.74	DD	BSIS
+S8269259T	Borys Parks	borys.2014@smu.edu.sg	169.01		BL
+G7207732J	Stefania Osborn	stefania.2017@smu.edu.sg	169.12	SM	BAcc
+S1614885E	Lily-Rose Owen	lily-rose.2016@smu.edu.sg	169.55	DD	BL
+G5789654T	Mark Hart	mark.2017@smu.edu.sg	170		BSCS
+G6195163L	Ibrahim Davenport	ibrahim.2015@smu.edu.sg	221.46	DD	BBM
+S8608988E	Renee Alexander	renee.2016@smu.edu.sg	170.96		BSEcons
+G5135295X	Cynthia Madden	cynthia.2015@smu.edu.sg	171.08		BL
+G3068906B	Asif Williamson	asif.2016@smu.edu.sg	171.29	SM	BSEcons
+G7723713W	Lea Goldsmith	lea.2014@smu.edu.sg	171.41	SM	BAcc
+S7152636R	Trixie Ramsey	trixie.2017@smu.edu.sg	171.47		BBM
+G4240802W	Jagoda Estrada	jagoda.2015@smu.edu.sg	171.47		BSS
+S6543646K	Glen Xiong	glen.2014@smu.edu.sg	171.53		BSS
+G5674435N	Colby Hardy	colby.2016@smu.edu.sg	171.95	DD	BSS
+G2709078J	Haseeb Woodard	haseeb.2016@smu.edu.sg	172.06		BSS
+S5477437K	Omer Proctor	omer.2017@smu.edu.sg	172.36	DD	BSS
+G7778470U	Colette Rasmussen	colette.2014@smu.edu.sg	172.53		BAcc
+G9735346F	Khadijah Lowry	khadijah.2017@smu.edu.sg	172.74	DD	BSS
+S7166592O	Jace Mcgee	jace.2017@smu.edu.sg	172.82		BSIS
+S8870419F	Rosa Williams	rosa.2015@smu.edu.sg	173.16	SM	BSIS
+G1308581G	Leigh Pike	leigh.2016@smu.edu.sg	173.58	SM	BSEcons
+S8199304O	Zoha Harrison	zoha.2016@smu.edu.sg	300	SM	BL
+S8320553I	Shayna Arias	shayna.2014@smu.edu.sg	173.94	DD	BL
+G5348713G	Isra Mcintosh	isra.2016@smu.edu.sg	173.96	SM	BAcc
+S8101925Y	Yosef Milner	yosef.2014@smu.edu.sg	174.14	SM	BL
+S4420150L	Elwood Barton	elwood.2014@smu.edu.sg	174.24	SM	BAcc
+G9820450X	Keira Reader	keira.2014@smu.edu.sg	174.33	SM	BAcc
+G2325249V	Tianna Squires	tianna.2017@smu.edu.sg	174.38	DD	BL
+G8245979V	Ema Wormald	ema.2016@smu.edu.sg	174.69		BL
+G5410327J	Nicolle Terry	nicolle.2016@smu.edu.sg	174.7		BSIS
+S8494550Z	Monet Guzman	monet.2015@smu.edu.sg	174.93		BSIS
+S5656789J	Fathima Lilac	fathima.2016@smu.edu.sg	175		BSCS
+G3644923K	Primrose Ryder	primrose.2017@smu.edu.sg	175.11	SM	BSEcons
+S5097653C	Diya Howells	diya.2014@smu.edu.sg	175.99	DD	BAcc
+S6351084H	River Cherry	river.2017@smu.edu.sg	175.99	SM	BSEcons
+S5015412I	Kylo Knott	kylo.2015@smu.edu.sg	176.14		BSEcons
+S3153717N	Hallam Sexton	hallam.2016@smu.edu.sg	176.28	SM	BSIS
+S5145550L	Malaki Rhodes	malaki.2014@smu.edu.sg	176.48	DD	BSEcons
+G5219950V	Kylo Kline	kylo.2014@smu.edu.sg	176.94	SM	BSEcons
+G7908128V	Imaan Barajas	imaan.2015@smu.edu.sg	176.99		BSIS
+S6098176Y	Joe Parks	joe.2016@smu.edu.sg	177.2	SM	BSEcons
+G8116961G	Cade James	cade.2014@smu.edu.sg	177.3		BBM
+S9259370O	Kristie Brandt	kristie.2016@smu.edu.sg	177.59		BAcc
+S3155752X	Clinton Kaufman	clinton.2014@smu.edu.sg	177.93		BSIS
+G2783985B	Lia Hogg	lia.2015@smu.edu.sg	178	DD	BSS
+G3159184K	Korban Gray	korban.2014@smu.edu.sg	179	SM	BSIS
+S8245166J	Lacie-Mae Sheehan	lacie-mae.2017@smu.edu.sg	179.08	SM	BSIS
+G1909981S	Aleksandra Schmitt	aleksandra.2014@smu.edu.sg	179.13	SM	BSEcons
+S5791335N	Lola-Mae Sanderson	lola-mae.2017@smu.edu.sg	179.14	SM	BSEcons
+G9702766L	Millie Crawford	millie.2014@smu.edu.sg	179.5	SM	BBM
+S8063232P	Amayah Franco	amayah.2014@smu.edu.sg	179.75		BBM
+S3440656E	Conrad Ventura	conrad.2016@smu.edu.sg	179.78		BAcc
+G3935262C	Arnold Miranda	arnold.2016@smu.edu.sg	179.82	SM	BSIS
+S5909460E	Karol Jordan	karol.2016@smu.edu.sg	179.93		BAcc
+G7161414V	Artur Velasquez	artur.2015@smu.edu.sg	180.2	SM	BSEcons
+G6880305J	Kayley Thompson	kayley.2014@smu.edu.sg	180.32		BSIS
+S5342323B	Timur Wolf	timur.2016@smu.edu.sg	180.77		BBM
+S4257813A	Fay Elliott	fay.2016@smu.edu.sg	180.79		BBM
+G9557499X	Phoenix Herbert	phoenix.2014@smu.edu.sg	230	DD	BL
+G5746978R	Fearne Hensley	fearne.2014@smu.edu.sg	181.03	SM	BL
+G7143957J	Berat Storey	berat.2016@smu.edu.sg	181.29		BBM
+S2057420T	Kacey Cabrera	kacey.2014@smu.edu.sg	249.26	DD	BSEcons
+S4762279V	Chantel Mac	chantel.2015@smu.edu.sg	420	DD	BSIS
+G6068615K	Reef Corbett	reef.2014@smu.edu.sg	181.44		BBM
+S3592325D	Aras Robertson	aras.2016@smu.edu.sg	181.66	SM	BAcc
+G3214004W	Carrie Kirkland	carrie.2014@smu.edu.sg	181.82	SM	BSEcons
+S6403940Q	Ezra Berg	ezra.2017@smu.edu.sg	181.91		BSIS
+G1966430Q	Dean Hagan	dean.2015@smu.edu.sg	182.1		BBM
+G6339806T	Daniaal Mckay	daniaal.2014@smu.edu.sg	182.16		BL
+G5647359J	Beulah Snider	beulah.2015@smu.edu.sg	182.42		BL
+S5539960C	Chance Devlin	chance.2016@smu.edu.sg	183.44	SM	BSEcons
+G9475767T	Roland Ho	roland.2014@smu.edu.sg	183.58		BSS
+G4168795E	Joey Berry	joey.2014@smu.edu.sg	183.59		BSS
+G8518647I	Ricardo Hughes	ricardo.2014@smu.edu.sg	183.77		BBM
+S9965813Z	Myles Busby	myles.2014@smu.edu.sg	183.79	DD	BBM
+G5006516O	Uma O'Moore	uma.2016@smu.edu.sg	183.83		BBM
+G1614836Y	Betty Mccall	betty.2017@smu.edu.sg	183.95	DD	BBM
+S9483160X	Lily-Mai Mckay	lily-mai.2014@smu.edu.sg	184.23	SM	BAcc
+S6500297F	Mattie Osborne	mattie.2017@smu.edu.sg	184.51	SM	BSS
+S8838938T	Tiernan Lucero	tiernan.2014@smu.edu.sg	184.53	SM	BL
+S4285563K	Miguel Vincent	miguel.2015@smu.edu.sg	184.66	DD	BSEcons
+G7769784B	Marek Villanueva	marek.2017@smu.edu.sg	184.74		BBM
+G1887410D	Thea Parkes	thea.2017@smu.edu.sg	184.82	SM	BBM
+G1478563F	Eamon Curry	eamon.2015@smu.edu.sg	184.94	SM	BSEcons
+G7952433B	Freddy Mercer	freddy.2016@smu.edu.sg	185.04		BSIS
+G8643087M	Cordelia England	cordelia.2016@smu.edu.sg	185.1		BSS
+S7384731A	Gloria Farley	gloria.2014@smu.edu.sg	185.39	SM	BL
+G9517007B	Jak Whitmore	jak.2017@smu.edu.sg	185.41		BSEcons
+G4099153A	Lee Hutchinson	lee.2014@smu.edu.sg	185.51	SM	BSEcons
+G6990394R	Nicolas Bradshaw	nicolas.2017@smu.edu.sg	185.52		BSS
+S3724818O	Sunil Ventura	sunil.2014@smu.edu.sg	185.53	SM	BSEcons
+S4561263N	Elsie-Rose Hagan	elsie-rose.2015@smu.edu.sg	185.76	SM	BAcc
+S2819899Q	Anita Head	anita.2014@smu.edu.sg	185.84		BAcc
+G1457458A	Zuzanna Patrick	zuzanna.2016@smu.edu.sg	185.98		BBM
+G2604877Z	Rahma Perry	rahma.2017@smu.edu.sg	186.03	SM	BSEcons
+G2093194D	Emilis Rees	emilis.2015@smu.edu.sg	186.35	SM	BSS
+G8709277V	Margaux Wynn	margaux.2015@smu.edu.sg	186.39		BBM
+S1731326X	Farrah Thatcher	farrah.2017@smu.edu.sg	186.59		BL
+G5846775M	Bryson Mercer	bryson.2015@smu.edu.sg	186.6		BSS
+G6870249K	Tyrique Mcmillan	tyrique.2016@smu.edu.sg	186.64	SM	BSEcons
+S7142012N	Tyreese Cottrell	tyreese.2017@smu.edu.sg	186.86		BAcc
+S4707322L	Kalum Marshall	kalum.2015@smu.edu.sg	187.02	SM	BSEcons
+G4371313E	Herbert Rodgers	herbert.2017@smu.edu.sg	187.41		BSIS
+S1528463R	Stephan Benson	stephan.2014@smu.edu.sg	187.56		BL
+S5577235C	Maximilian Riddle	maximilian.2015@smu.edu.sg	188		BSEcons
+S7528039A	Rida Emerson	rida.2014@smu.edu.sg	188.02		BL
+S7259169X	Annalise Bowers	annalise.2014@smu.edu.sg	250	SM	BSIS
+S7904420H	Kris Fountain	kris.2015@smu.edu.sg	188.1	DD	BL
+S1809079J	Abdullah Sutton	abdullah.2015@smu.edu.sg	188.27		BSS
+S9451990D	Liya Faulkner	liya.2015@smu.edu.sg	188.51		BAcc
+G6802248F	Ross Mueller	ross.2016@smu.edu.sg	188.95		BBM
+G1749147V	Hendrix Vega	hendrix.2015@smu.edu.sg	189.03		BBM
+S4750609W	Sabah Milne	sabah.2015@smu.edu.sg	189.07	SM	BBM
+G7078203Z	Madina Hughes	madina.2015@smu.edu.sg	189.21		BBM
+G3451278B	Kie Parks	kie.2017@smu.edu.sg	189.22		BBM
+S4581309O	Miguel Waller	miguel.2014@smu.edu.sg	189.26		BAcc
+S7134444Z	Ismaeel Davies	ismaeel.2015@smu.edu.sg	189.41		BSIS
+S6047788O	Jak Mcclain	jak.2014@smu.edu.sg	189.9		BBM
+S8037494C	Deen Mitchell	deen.2014@smu.edu.sg	190.25		BSS
+S3612014K	Sohaib Ferguson	sohaib.2017@smu.edu.sg	240	SM	BL
+S8890383P	Taylah Betts	taylah.2014@smu.edu.sg	190.42		BBM
+G8991351E	Evelyn Costa	evelyn.2015@smu.edu.sg	190.49		BSS
+G1510855W	Dario Witt	dario.2015@smu.edu.sg	190.7	DD	BAcc
+S9752518H	Aniela Robbins	aniela.2017@smu.edu.sg	190.75	DD	BBM
+G6538345N	Geraldine Carlson	geraldine.2014@smu.edu.sg	190.91	SM	BSIS
+G1628054E	Indiana Thompson	indiana.2016@smu.edu.sg	240	DD	BBM
+G8437746O	Lily-Anne Glenn	lily-anne.2016@smu.edu.sg	191.57		BSIS
+S7503906F	Eli Pittman	eli.2016@smu.edu.sg	191.87	DD	BBM
+G2988343B	Gabrielle Roman	gabrielle.2014@smu.edu.sg	192.15	DD	BBM
+G5234570X	Charlene Chavez	charlene.2015@smu.edu.sg	192.24		BBM
+S8946941J	Hashim Neal	hashim.2015@smu.edu.sg	192.35		BSS
+S7818020O	Lucie Baxter	lucie.2017@smu.edu.sg	193.21		BSS
+S2345678H	Faisal Farrow	faisal.2016@smu.edu.sg	193.45		BL
+G9279908X	Mehak Vu	mehak.2015@smu.edu.sg	193.49		BL
+G4837466F	Malaikah Price	malaikah.2017@smu.edu.sg	193.7	SM	BSS
+G8564778L	Tiffany Wardle	tiffany.2016@smu.edu.sg	193.79		BSS
+G7070532I	Ty Pritchard	ty.2014@smu.edu.sg	193.93	DD	BAcc
+S9009408V	Yousif Snow	yousif.2017@smu.edu.sg	194.1		BL
+S7226605E	Hallie Salt	hallie.2014@smu.edu.sg	194.34	DD	BSEcons
+S7405784Z	Mack Pitts	mack.2017@smu.edu.sg	194.58	DD	BSEcons
+S4515563F	Renee Sanford	renee.2014@smu.edu.sg	194.64		BAcc
+G6806871D	Rikki Currie	rikki.2014@smu.edu.sg	194.88	SM	BSEcons
+G1638584I	Minahil Swan	minahil.2014@smu.edu.sg	194.99		BSIS
+G2704531B	Allegra Goodwin	allegra.2015@smu.edu.sg	195.22	SM	BSS
+S4854810V	Eiliyah Wiley	eiliyah.2014@smu.edu.sg	195.31		BSIS
+S6576219F	Usaamah Knott	usaamah.2014@smu.edu.sg	195.66		BBM
+G6328825N	Courtney Byers	courtney.2016@smu.edu.sg	195.73		BL
+S6202293P	Daniella Holman	daniella.2016@smu.edu.sg	196.05		BSEcons
+S7573802M	Kathryn Wall	kathryn.2014@smu.edu.sg	196.43		BSIS
+S4425875K	Sarah Calhoun	sarah.2016@smu.edu.sg	196.58		BSS
+G8040684N	Ruby-Rose Wheatley	ruby-rose.2017@smu.edu.sg	196.81		BBM
+S5273254N	Teegan Deleon	teegan.2015@smu.edu.sg	197.11		BBM
+G1459200D	Ari Edwards	ari.2017@smu.edu.sg	197.33		BSS
+G1788527I	Howard Wang	howard.2016@smu.edu.sg	197.52		BSS
+G3817089Z	Atticus Corona	atticus.2014@smu.edu.sg	197.59	SM	BSEcons
+S8294060P	Stuart Novak	stuart.2015@smu.edu.sg	197.92	SM	BSIS
+S3204680F	Lacey-Mae Delarosa	lacey-mae.2014@smu.edu.sg	198.69		BL
+G5666811A	Viktoria Woodcock	viktoria.2015@smu.edu.sg	198.7	SM	BAcc
+G9798957M	Rosemarie Guthrie	rosemarie.2014@smu.edu.sg	198.77		BBM
+S2458155I	Portia Wolfe	portia.2014@smu.edu.sg	199.1		BSS
+S9942502Q	Nile Woodcock	nile.2016@smu.edu.sg	199.13	SM	BSEcons
+S3677879U	Tiernan Hendrix	tiernan.2014@smu.edu.sg	350	DD	BL
+S9591836B	Evie-Grace Conroy	evie-grace.2015@smu.edu.sg	199.53		BSEcons
+S8827457G	Rhia Arias	rhia.2014@smu.edu.sg	200.21	SM	BAcc
+G5636832X	Marissa Kidd	marissa.2017@smu.edu.sg	200.64		BL
+S5446561G	Habiba Barber	habiba.2014@smu.edu.sg	200.71	SM	BSEcons
+S5532926S	Sienna-Rose Wiggins	sienna-rose.2016@smu.edu.sg	201.65		BSIS
+G7981261C	Ed Chambers	ed.2014@smu.edu.sg	202.02	DD	BSS
+S9164085C	Rudi Tapia	rudi.2017@smu.edu.sg	202.64		BL
+G9238433Q	Bobbie Greenaway	bobbie.2016@smu.edu.sg	202.92	DD	BAcc
+S4632560C	Naya Rodriguez	naya.2016@smu.edu.sg	202.97		BAcc
+G9243459H	Davina Battle	davina.2014@smu.edu.sg	203.06	SM	BSS
+G7214406B	Gloria Fenton	gloria.2015@smu.edu.sg	203.12		BL
+S7674000Z	Huxley Miles	huxley.2014@smu.edu.sg	203.51		BAcc
+S7310264A	Ifrah Watts	ifrah.2017@smu.edu.sg	203.82	SM	BAcc
+S4696628L	Maureen Harrington	maureen.2017@smu.edu.sg	204.26		BBM
+G2193714K	Shakil Vang	shakil.2015@smu.edu.sg	204.42	SM	BBM
+G2129118R	Kinga Vasquez	kinga.2015@smu.edu.sg	204.64		BBM
+S3224820Y	Rafe Moss	rafe.2015@smu.edu.sg	204.74		BBM
+G1940829M	Hubert Caldwell	hubert.2014@smu.edu.sg	204.76		BBM
+G3420417D	Horace Stott	horace.2014@smu.edu.sg	205.24		BSS
+S1832942I	Layton Richard	layton.2016@smu.edu.sg	205.38		BBM
+G6426070Y	Emelie O'Gallagher	emelie.2014@smu.edu.sg	205.5	SM	BBM
+S6355991D	Jonny Burnett	jonny.2016@smu.edu.sg	205.54	DD	BBM
+G3991720E	Jax Lam	jax.2014@smu.edu.sg	205.58	SM	BAcc
+S9966116D	Shuaib Campos	shuaib.2016@smu.edu.sg	205.62	SM	BSEcons
+S6390340P	Aman Mellor	aman.2014@smu.edu.sg	205.66	SM	BSIS
+S5992895V	Phebe Dillard	phebe.2014@smu.edu.sg	315	DD	BL
+G8279016F	Ishan Shields	ishan.2016@smu.edu.sg	205.94		BBM
+G2240626U	Arwel Coulson	arwel.2014@smu.edu.sg	300	DD	BSEcons
+G8592381D	Nigel Sheppard	nigel.2015@smu.edu.sg	206.18		BSS
+G2358509G	Myra Watt	myra.2014@smu.edu.sg	206.33	SM	BAcc
+S9048648M	Alisha Blair	alisha.2014@smu.edu.sg	206.51	DD	BSS
+G6771188F	Shauna Barron	shauna.2014@smu.edu.sg	206.61		BBM
+S5090961Q	Omer Lamb	omer.2014@smu.edu.sg	206.69	SM	BSEcons
+S5451042B	Arian Kline	arian.2014@smu.edu.sg	206.72	SM	BSEcons
+S1546609H	Hollie Pratt	hollie.2014@smu.edu.sg	207.41	DD	BBM
+G4718365T	Tj Tierney	tj.2014@smu.edu.sg	207.42		BAcc
+G2684971P	Tristan Denton	tristan.2015@smu.edu.sg	208.08		BBM
+G5020363X	Rogan Adams	rogan.2016@smu.edu.sg	208.42		BL
+S6880471X	Benn Downs	benn.2016@smu.edu.sg	208.43		BL
+S7418540U	Margot Nunez	margot.2014@smu.edu.sg	208.51	SM	BSEcons
+S1243158J	Joni Bravo	joni.2014@smu.edu.sg	208.53		BBM
+G8657349B	Jesse Stanley	jesse.2017@smu.edu.sg	208.6		BSEcons
+S5940047D	Jane Allison	jane.2015@smu.edu.sg	208.64		BSS
+G7542156L	Caprice Higgs	caprice.2014@smu.edu.sg	208.8		BL
+S6934186Y	Diana Rangel	diana.2015@smu.edu.sg	208.89		BSS
+G6478891Q	Zahid Henry	zahid.2016@smu.edu.sg	209.03	DD	BSIS
+S5878885X	Cheyenne Winters	cheyenne.2016@smu.edu.sg	209.29	SM	BL
+G7976847X	Zaara Bray	zaara.2014@smu.edu.sg	209.29	SM	BAcc
+G2047915T	Tommy Tillman	tommy.2014@smu.edu.sg	209.56		BSIS
+S8691008O	Antony Bradford	antony.2014@smu.edu.sg	209.59	SM	BSIS
+G7222798S	Becky Rawlings	becky.2014@smu.edu.sg	210.32		BAcc
+S1503654Q	Geraint Wills	geraint.2015@smu.edu.sg	210.49		BL
+G8275276Q	Roshni Mason	roshni.2015@smu.edu.sg	210.63		BBM
+G4498606U	Brendon Mill	brendon.2015@smu.edu.sg	210.89		BSS
+S5531998N	Ciara Reader	ciara.2014@smu.edu.sg	211.18		BSIS
+S6559942W	Aurelia Freeman	aurelia.2015@smu.edu.sg	211.25		BSIS
+S4708425E	Aleena Maddox	aleena.2016@smu.edu.sg	211.35	SM	BAcc
+S6958825L	Finnlay Craft	finnlay.2014@smu.edu.sg	211.42		BL
+G5850702U	Kaidan Dunlop	kaidan.2017@smu.edu.sg	211.47		BL
+G4239702K	Taslima Meyers	taslima.2015@smu.edu.sg	211.47		BSIS
+S5325791H	Jo Handley	jo.2015@smu.edu.sg	211.55		BL
+G2918774J	Zoha Stafford	zoha.2015@smu.edu.sg	212.21	SM	BAcc
+S4994974W	Summer Edmonds	summer.2017@smu.edu.sg	212.31	SM	BAcc
+G2503868U	Caspar Callaghan	caspar.2015@smu.edu.sg	212.72	DD	BSEcons
+G7835950J	Ameer Griffith	ameer.2014@smu.edu.sg	213.1	DD	BSIS
+S5319630V	Robin Mcbride	robin.2016@smu.edu.sg	213.15		BBM
+S2736182H	Lexi-Mai Sheppard	lexi-mai.2015@smu.edu.sg	213.36	SM	BL
+G6244526S	Umayr Velasquez	umayr.2014@smu.edu.sg	213.47	DD	BAcc
+S2386743U	Kiki Khan	kiki.2014@smu.edu.sg	213.51	SM	BSIS
+G6249098V	Ritik Salinas	ritik.2014@smu.edu.sg	260	DD	BSIS
+G8573893I	Misbah Franks	misbah.2017@smu.edu.sg	213.84	SM	BSEcons
+G8126505R	Kiara Parsons	kiara.2016@smu.edu.sg	213.85	SM	BSIS
+G2211824R	Dahlia Stein	dahlia.2016@smu.edu.sg	275	DD	BSS
+S5135946Q	Naima Proctor	naima.2014@smu.edu.sg	213.97		BBM
+S8262914G	Hadassah Drake	hadassah.2017@smu.edu.sg	214.05		BSS
+G8153175C	Suleman Barnes	suleman.2014@smu.edu.sg	214.29		BBM
+S8433091M	Daisy Bailey	daisy.2015@smu.edu.sg	214.3		BBM
+S1390969K	Octavia O'Doherty	octavia.2014@smu.edu.sg	214.34	DD	BBM
+G4771343S	Aadil Hoffman	aadil.2015@smu.edu.sg	214.87		BSS
+S2142614B	Letitia Farrell	letitia.2014@smu.edu.sg	215.14		BBM
+G4043237I	Shyam Leal	shyam.2014@smu.edu.sg	215.26		BSIS
+G7003610T	Quinn Wills	quinn.2016@smu.edu.sg	215.56		BBM
+G6571781C	Steffan Whitney	steffan.2016@smu.edu.sg	215.57		BAcc
+G7023596S	Falak Hawkins	falak.2014@smu.edu.sg	215.61		BSIS
+S1551849C	Niko Buckley	niko.2014@smu.edu.sg	215.65		BL
+G3081238Z	Mercedes Armitage	mercedes.2014@smu.edu.sg	215.69		BL
+S3520907Z	Cheyanne Cantu	cheyanne.2015@smu.edu.sg	215.71	SM	BAcc
+G2355439T	Ella-May Cline	ella-may.2014@smu.edu.sg	215.98		BSIS
+S3067906R	Zayn Lake	zayn.2014@smu.edu.sg	216.03	SM	BSIS
+G7795556W	Ivy Avalos	ivy.2016@smu.edu.sg	216.2	SM	BSS
+G6125141S	Carole Molloy	carole.2014@smu.edu.sg	216.64	DD	BSS
+S8460523N	Rocco Hanna	rocco.2014@smu.edu.sg	216.65	SM	BSEcons
+S9243743T	Reema Harrington	reema.2014@smu.edu.sg	216.67	SM	BSS
+S6159408C	Emily-Jane Keller	emily-jane.2015@smu.edu.sg	216.75	DD	BSEcons
+G6260237Q	Demi Khan	demi.2014@smu.edu.sg	216.87		BL
+G6926765B	Rupert Chen	rupert.2014@smu.edu.sg	216.9		BSIS
+G1704764O	Cohan Rowley	cohan.2015@smu.edu.sg	216.92		BSIS
+G5799259P	Kaila Medina	kaila.2015@smu.edu.sg	217.03	DD	BSEcons
+G7751199R	Amira Serrano	amira.2017@smu.edu.sg	217.32		BL
+S4247501R	Laurie Findlay	laurie.2014@smu.edu.sg	217.35	SM	BSIS
+G1981720M	Julie Bryan	julie.2017@smu.edu.sg	217.39		BL
+S6479878E	Shiv Parry	shiv.2017@smu.edu.sg	217.59	SM	BSIS
+G5135710U	Morwenna Burch	morwenna.2017@smu.edu.sg	217.74	SM	BSS
+S9579942U	Raife Sandoval	raife.2017@smu.edu.sg	217.95	SM	BAcc
+S5202641F	Wesley Leblanc	wesley.2016@smu.edu.sg	217.95	SM	BSEcons
+S8363030X	Ava-May Mcgregor	ava-may.2014@smu.edu.sg	217.98		BL
+S5934802P	Kaia Mcknight	kaia.2016@smu.edu.sg	218.17		BBM
+S3802134H	Keiran Hood	keiran.2014@smu.edu.sg	218.62		BSS
+S9038161K	Aubrey Murillo	aubrey.2014@smu.edu.sg	218.88		BBM
+G5558229P	Matthias Lynn	matthias.2014@smu.edu.sg	219.03		BSS
+S9460202A	Emyr Hicks	emyr.2014@smu.edu.sg	219.21	SM	BAcc
+S2619119P	Matteo Tillman	matteo.2017@smu.edu.sg	219.76		BSIS
+S5363369N	Verity Gilliam	verity.2017@smu.edu.sg	220.05	SM	BSIS
+S8794438L	Christopher Wright	christopher.2016@smu.edu.sg	220.21	SM	BAcc
+S2758713I	Divine Cousins	divine.2015@smu.edu.sg	220.33	SM	BSS
+S2223723J	Arooj Fletcher	arooj.2016@smu.edu.sg	250	DD	BSEcons
+S8378052R	Tyron Wainwright	tyron.2017@smu.edu.sg	220.57		BSEcons
+S2851404Y	Marta Young	marta.2014@smu.edu.sg	220.78		BBM
+S9915700E	Yahya Bass	yahya.2014@smu.edu.sg	221.19	DD	BAcc
+S6402487F	Kailan Duggan	kailan.2015@smu.edu.sg	228.12	DD	BBM
+G3368759F	Ruby Bannister	ruby.2014@smu.edu.sg	221.63		BSIS
+G7224770W	Kaiden Clegg	kaiden.2014@smu.edu.sg	221.79		BAcc
+S8428424F	Kalvin Sheldon	kalvin.2014@smu.edu.sg	221.86		BSIS
+S5877043O	Bella Bellamy	bella.2016@smu.edu.sg	221.89		BBM
+S7432016O	Eleasha Irwin	eleasha.2016@smu.edu.sg	222.12		BSIS
+G3784403G	Rukhsar Mathews	rukhsar.2014@smu.edu.sg	222.14	DD	BSEcons
+S6257896X	Cali Carrillo	cali.2014@smu.edu.sg	222.49	SM	BSEcons
+S4023340C	Kayson Mccullough	kayson.2014@smu.edu.sg	222.53		BSEcons
+S6602353O	Edna Avila	edna.2015@smu.edu.sg	222.8		BSEcons
+S9214614K	Jazmyn Anderson	jazmyn.2014@smu.edu.sg	222.92	SM	BL
+G9259284A	Eleri Singh	eleri.2016@smu.edu.sg	223.07	SM	BL
+G6221136A	Madeline Macias	madeline.2017@smu.edu.sg	223.23		BSEcons
+S6668383V	Viktor Reilly	viktor.2017@smu.edu.sg	223.62		BBM
+G2164672B	Tyla Mair	tyla.2014@smu.edu.sg	223.7	SM	BAcc
+S7912763U	Blossom Higgins	blossom.2016@smu.edu.sg	223.81		BSIS
+S5567700B	Emmanuella Patterson	emmanuella.2015@smu.edu.sg	223.88		BBM
+S2998518U	Hanan Connolly	hanan.2014@smu.edu.sg	224.67	SM	BSIS
+G6711660M	Aminah Ratcliffe	aminah.2017@smu.edu.sg	224.77	SM	BSS
+S8236639E	Brandon-Lee Richmond	brandon-lee.2017@smu.edu.sg	340		BL
+S1890607T	Pixie Cunningham	pixie.2015@smu.edu.sg	224.99	SM	BSEcons
+G1878146N	Nada John	nada.2016@smu.edu.sg	225.22	SM	BSIS
+G6438530H	Teegan Farrington	teegan.2014@smu.edu.sg	225.42		BBM
+S1982423T	Shanelle Hahn	shanelle.2014@smu.edu.sg	225.47		BSIS
+S7455476M	Craig Shelton	craig.2015@smu.edu.sg	225.5		BSIS
+S5265547X	Anthony Brady	anthony.2014@smu.edu.sg	225.54	SM	BAcc
+S8338416X	Arnie Colley	arnie.2014@smu.edu.sg	225.7	DD	BL
+G1195010I	Asmaa Rocha	asmaa.2017@smu.edu.sg	225.86		BSS
+S7695175S	Jarvis Craig	jarvis.2016@smu.edu.sg	226.02	SM	BSS
+G5759261J	Simeon Norton	simeon.2017@smu.edu.sg	226.25	SM	BSS
+S7877279F	Ellie-May Chung	ellie-may.2014@smu.edu.sg	226.34		BAcc
+S8462148D	Jemima Miller	jemima.2014@smu.edu.sg	226.36		BSS
+S7829305T	Sahil Cruz	sahil.2014@smu.edu.sg	226.39	SM	BSIS
+G7572792I	Savannah Rosales	savannah.2014@smu.edu.sg	226.4		BSIS
+G1208785A	Aaisha Bourne	aaisha.2016@smu.edu.sg	226.61	SM	BSIS
+S4478795A	Rikki Stafford	rikki.2016@smu.edu.sg	320	DD	BSIS
+S3819776S	Lennie Avalos	lennie.2014@smu.edu.sg	226.85		BL
+S1519154B	Gerald Mckay	gerald.2015@smu.edu.sg	226.92		BSIS
+S9658278H	Taiba Snider	taiba.2017@smu.edu.sg	227		BAcc
+G5493642S	Roma Fleming	roma.2017@smu.edu.sg	227.01		BAcc
+S4319479Q	Guy Preston	guy.2014@smu.edu.sg	227.43	DD	BBM
+S2396544Q	Emma Foley	emma.2017@smu.edu.sg	227.43	SM	BSIS
+G4628081R	Bogdan Mcdonnell	bogdan.2016@smu.edu.sg	227.53		BSIS
+G2942350W	Darcy Davis	darcy.2014@smu.edu.sg	227.59		BAcc
+S4429035J	Saim Macgregor	saim.2016@smu.edu.sg	227.93		BSS
+S9993878T	Jazmin Grainger	jazmin.2017@smu.edu.sg	227.95		BL
+G2267726F	Nikodem Choi	nikodem.2015@smu.edu.sg	228.03	SM	BSS
+G2171199U	Roma Kirk	roma.2015@smu.edu.sg	228.06		BSIS
+S2879175E	Kaisha Webber	kaisha.2014@smu.edu.sg	250	DD	BSEcons
+G9889393M	Diana Simpson	diana.2016@smu.edu.sg	228.51		BBM
+G4342386S	Hector Fox	hector.2017@smu.edu.sg	228.58	SM	BSEcons
+S7065095Y	Kameron Broughton	kameron.2015@smu.edu.sg	228.71		BSS
+S1130579W	Eathan Yu	eathan.2014@smu.edu.sg	228.84	SM	BL
+S4398168E	Nate Beaumont	nate.2017@smu.edu.sg	229.28		BSEcons
+S2151505T	Jannat Arellano	jannat.2017@smu.edu.sg	229.51	SM	BAcc
+S7736624D	Jamie-Leigh Mcdonald	jamie-leigh.2015@smu.edu.sg	229.52	DD	BAcc
+G3188338A	Shelby Fuller	shelby.2017@smu.edu.sg	229.65	SM	BSEcons
+S7350403S	Steffan Barrett	steffan.2017@smu.edu.sg	229.94	DD	BBM
+G9504221J	Zaki Anthony	zaki.2014@smu.edu.sg	230.46		BSS
+S5372390B	Katie Kavanagh	katie.2014@smu.edu.sg	230.51		BSS
+G2437794Z	Jemimah Khan	jemimah.2017@smu.edu.sg	230.56		BL
+S9312268F	Bertram Nairn	bertram.2014@smu.edu.sg	230.57	SM	BSEcons
+S8846986Z	Miguel Cline	miguel.2016@smu.edu.sg	250		BL
+S9296245I	Aminah Amos	aminah.2014@smu.edu.sg	230.73		BL
+G3785313W	Yazmin Leal	yazmin.2016@smu.edu.sg	230.83	SM	BSS
+G5436843F	Ferne Moore	ferne.2014@smu.edu.sg	231.05		BL
+G5977969S	Keaton Nelson	keaton.2016@smu.edu.sg	231.65	SM	BSEcons
+G7786106N	Carrie-Ann Bauer	carrie-ann.2016@smu.edu.sg	231.72	DD	BL
+G2343328I	Karam Rigby	karam.2014@smu.edu.sg	232.47	SM	BSIS
+S3936500N	Dario Beltran	dario.2014@smu.edu.sg	232.81	SM	BSIS
+S4454511H	Alison Elliott	alison.2017@smu.edu.sg	232.94	SM	BSIS
+G4573443G	Blythe Hunt	blythe.2017@smu.edu.sg	232.98		BBM
+S1169979T	Loui Rodriguez	loui.2015@smu.edu.sg	233.16		BL
+S2159167J	Kaylee Whitworth	kaylee.2014@smu.edu.sg	233.65	DD	BAcc
+S9578840F	Olivia-Grace Avalos	olivia-grace.2017@smu.edu.sg	233.96		BBM
+G8270127R	Lilianna Guzman	lilianna.2017@smu.edu.sg	181.35	DD	BBM
+G1632868N	Lois Lamb	lois.2015@smu.edu.sg	234.23		BBM
+G7596012S	Dennis Hodgson	dennis.2014@smu.edu.sg	234.62		BL
+G3136398I	Maureen Camacho	maureen.2014@smu.edu.sg	234.63	SM	BSS
+G5993120I	Jody Berg	jody.2014@smu.edu.sg	234.7	SM	BSIS
+G9991103W	Hana Whitney	hana.2014@smu.edu.sg	234.97		BSS
+S9737354Z	Kendra Grimes	kendra.2014@smu.edu.sg	235.42		BL
+S2989349J	Tallulah Savage	tallulah.2015@smu.edu.sg	235.59		BSEcons
+S7872496X	Anand Frye	anand.2017@smu.edu.sg	236.26		BSIS
+S3867523T	Ameera Kendall	ameera.2015@smu.edu.sg	236.41	SM	BAcc
+S2720526P	Gabriel Hussain	gabriel.2015@smu.edu.sg	236.57		BL
+S5116441Y	Krisha Lane	krisha.2014@smu.edu.sg	237.03		BSS
+G8581159Q	Gemma Beaumont	gemma.2015@smu.edu.sg	237.13		BSIS
+G5377802W	Muskaan Parra	muskaan.2016@smu.edu.sg	237.29		BSEcons
+G7131610A	Izaac Murphy	izaac.2017@smu.edu.sg	237.55		BSIS
+S3889202W	Asmaa Waller	asmaa.2015@smu.edu.sg	237.66	SM	BBM
+S7750138L	Archer Decker	archer.2014@smu.edu.sg	237.75		BL
+G5509856W	Paulina Navarro	paulina.2015@smu.edu.sg	237.81	DD	BBM
+G7112022G	Kaleem Chung	kaleem.2014@smu.edu.sg	237.83	SM	BSS
+G2094450X	Sofia Horner	sofia.2014@smu.edu.sg	238.99		BL
+G9839109H	Tamanna Fuentes	tamanna.2017@smu.edu.sg	239.18		BSEcons
+S7602352T	Donald Colon	donald.2015@smu.edu.sg	239.49		BAcc
+G8202023S	Lorelei Rodrigues	lorelei.2015@smu.edu.sg	239.59	SM	BSIS
+G4496276I	Anika Kaiser	anika.2014@smu.edu.sg	239.92	DD	BL
+S2699521W	Franciszek Haigh	franciszek.2015@smu.edu.sg	239.99		BL
+S6269776A	Glenn Cousins	glenn.2016@smu.edu.sg	240.11	SM	BAcc
+G9314572Q	Lexi-Mai Walker	lexi-mai.2017@smu.edu.sg	240.37	DD	BSS
+G5814907Q	Zahara Dalby	zahara.2014@smu.edu.sg	240.46		BL
+G3131367A	Kobie Herrera	kobie.2017@smu.edu.sg	240.46		BAcc
+S5205839X	Klay Moody	klay.2015@smu.edu.sg	240.5		BSS
+G8964245P	Aimee Bevan	aimee.2014@smu.edu.sg	240.88		BSIS
+G6333129R	Iestyn Sanderson	iestyn.2017@smu.edu.sg	240.89	SM	BSIS
+G6672509I	Rahima Obrien	rahima.2016@smu.edu.sg	241.16		BSS
+S2340970G	Luci Dale	luci.2014@smu.edu.sg	241.34		BSS
+G3097851X	Delia Leal	delia.2014@smu.edu.sg	241.55	DD	BSEcons
+S8815308T	Habiba Macias	habiba.2016@smu.edu.sg	241.95		BL
+G9217215C	Said Christian	said.2014@smu.edu.sg	242.48	SM	BSS
+S5768989N	Christie Mcdougall	christie.2014@smu.edu.sg	242.52	SM	BAcc
+G5258103F	Beau Humphrey	beau.2017@smu.edu.sg	242.57	SM	BSEcons
+G4091976F	Rosina Searle	rosina.2014@smu.edu.sg	242.94	SM	BSEcons
+G5208341A	Hetty Espinosa	hetty.2017@smu.edu.sg	242.98		BSIS
+S5175075G	Chyna Parkinson	chyna.2015@smu.edu.sg	400	DD	BSEcons
+S4205714Z	Ophelia Bartlett	ophelia.2017@smu.edu.sg	243.27		BBM
+S5326224L	Wren Stuart	wren.2016@smu.edu.sg	243.78		BBM
+S1475974S	Anthony Donnelly	anthony.2017@smu.edu.sg	244.12	SM	BL
+G5036179G	Jennie Greig	jennie.2014@smu.edu.sg	244.23		BL
+S1155511K	Md Meyers	md.2017@smu.edu.sg	244.7	DD	BL
+S6235229H	Denny Thorne	denny.2016@smu.edu.sg	350	DD	BSIS
+G2240309J	Brennan Houghton	brennan.2014@smu.edu.sg	245.35		BSIS
+S7326226X	Lillie-Mai Rowe	lillie-mai.2015@smu.edu.sg	245.36		BSIS
+G4306019F	Abbie Lancaster	abbie.2016@smu.edu.sg	245.51	DD	BL
+G9464086V	Tamera Workman	tamera.2015@smu.edu.sg	245.62		BSS
+S8556162S	Ivo Hirst	ivo.2017@smu.edu.sg	245.93		BBM
+S9795863M	Cara Harvey	cara.2017@smu.edu.sg	246.15	SM	BAcc
+S6263822N	Kathleen Pike	kathleen.2017@smu.edu.sg	246.44	DD	BSS
+G3051526E	Lisa-Marie Kramer	lisa-marie.2014@smu.edu.sg	246.62		BL
+G6230292I	Dan Bernard	dan.2015@smu.edu.sg	247.43		BBM
+S4051507M	Xavier Moore	xavier.2014@smu.edu.sg	247.44		BSS
+G8423416T	Neal Dorsey	neal.2017@smu.edu.sg	247.54	DD	BSEcons
+S6896814Q	Cillian Dupont	cillian.2014@smu.edu.sg	247.58		BAcc
+S8496448J	Enrique Mcdonnell	enrique.2015@smu.edu.sg	248.23		BL
+S4406218H	Darcie-Mae Jackson	darcie-mae.2015@smu.edu.sg	248.79		BSEcons
+S7499140M	Larry Goodwin	larry.2015@smu.edu.sg	248.83		BL
+G1972304L	Kiah Colley	kiah.2014@smu.edu.sg	248.88	SM	BSEcons
+G5506313T	Manpreet Daly	manpreet.2014@smu.edu.sg	249.02		BSS
+G6357152H	Rhiannon Castaneda	rhiannon.2014@smu.edu.sg	170.02	DD	BSEcons
+G4960145W	Harlow Lott	harlow.2017@smu.edu.sg	249.32		BBM
+S7670799A	Darci Wilder	darci.2017@smu.edu.sg	249.49		BL
+S8380807S	Cassie Dixon	cassie.2015@smu.edu.sg	249.65	SM	BBM
+G6143882J	Griff Bush	griff.2016@smu.edu.sg	249.69		BSS
+S1474034R	Rikesh Jefferson	rikesh.2015@smu.edu.sg	249.79	SM	BSIS
+S4605592H	Dolcie Dudley	dolcie.2016@smu.edu.sg	249.82		BSEcons
+G9425750X	Safa Gunn	safa.2015@smu.edu.sg	250.07	DD	BSEcons
+G3809854U	Lacey-May Vu	lacey-may.2014@smu.edu.sg	250.53	DD	BSEcons
+S1960652N	Javier Mccray	javier.2014@smu.edu.sg	250.54	DD	BSIS
+S8141760Y	Farhan Mccormick	farhan.2016@smu.edu.sg	250.55	SM	BSIS
+G4073042H	Athena Pace	athena.2016@smu.edu.sg	250.9	SM	BSEcons

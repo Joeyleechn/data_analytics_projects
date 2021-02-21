@@ -1,0 +1,9 @@
+pid	prog_name	homesch_name	secsch_name
+BSIS	Bachelor of Science - Information Systems	School of Information Systems	\N
+BAcc	Bachelor of Accountancy	School of Accountancy	\N
+BBM	Bachelor of Business Management	Lee Kong Chian School of Business	\N
+BSEcons	Bachelor of Science - Economics	School of Economics	\N
+BSCS	Bachelor of Science - Computer Science	School of Information Systems	\N
+BSCL	Bachelor of Science - Computing & Law	School of Information Systems	School of Law
+BL	Bachelor of Law	School of Law	\N
+BSS	Bachelor of Social Science	School of Social Sciences	\N

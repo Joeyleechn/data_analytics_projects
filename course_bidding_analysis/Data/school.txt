@@ -1,0 +1,7 @@
+sch_name	address	url
+School of Information Systems	80 Stamford Road, Singapore 178902	https://sis.smu.edu.sg/
+School of Accountancy	60 Stamford Road, Singapore 178900	https://accountancy.smu.edu.sg/
+Lee Kong Chian School of Business	50 Stamford Road, Singapore 178899	https://business.smu.edu.sg/
+School of Economics	90 Stamford Road, Singapore 178903	https://economics.smu.edu.sg/
+School of Social Sciences	90 Stamford Road, Level 4 Singapore 178903	https://socsc.smu.edu.sg/
+School of Law	55 Armenian St, Singapore 179943	https://law.smu.edu.sg/
