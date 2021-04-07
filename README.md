@@ -21,3 +21,9 @@ Source Data at https://www.kaggle.com/stackoverflow/stackoverflow
 Build a MySQL database to store school data and analyze key points with SQL query. 
 
 A frontend using HTML and a backend using PHP is built to show query results of users' interests.
+
+4. anomaly_detection
+
+Use statistical methods and time series methods to detect univariate anomalies.
+
+Source data at https://www.kaggle.com/lakshmi25npathi/gold-price/code.
