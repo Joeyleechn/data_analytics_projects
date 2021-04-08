@@ -26,4 +26,4 @@ A frontend using HTML and a backend using PHP is built to show query results of 
 
 Use statistical methods and time series methods to detect univariate anomalies.
 
-Source data at https://www.kaggle.com/lakshmi25npathi/gold-price.
+Source data at https://www.kaggle.com/kandij/electric-production.
